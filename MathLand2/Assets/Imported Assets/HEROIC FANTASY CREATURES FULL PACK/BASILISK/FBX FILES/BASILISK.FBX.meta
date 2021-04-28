@@ -1,0 +1,1580 @@
+fileFormatVersion: 2
+guid: b1558fd18cf3ebc469d6ec4ff9e8e068
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: BASILISK
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: BASILISK_
+  - first:
+      1: 100006
+    second: BASILISK_ Head
+  - first:
+      1: 100008
+    second: BASILISK_ L Calf
+  - first:
+      1: 100010
+    second: BASILISK_ L Clavicle
+  - first:
+      1: 100012
+    second: BASILISK_ L Finger0
+  - first:
+      1: 100014
+    second: BASILISK_ L Finger01
+  - first:
+      1: 100016
+    second: BASILISK_ L Finger02
+  - first:
+      1: 100018
+    second: BASILISK_ L Finger1
+  - first:
+      1: 100020
+    second: BASILISK_ L Finger11
+  - first:
+      1: 100022
+    second: BASILISK_ L Finger12
+  - first:
+      1: 100024
+    second: BASILISK_ L Finger2
+  - first:
+      1: 100026
+    second: BASILISK_ L Finger21
+  - first:
+      1: 100028
+    second: BASILISK_ L Finger22
+  - first:
+      1: 100030
+    second: BASILISK_ L Foot
+  - first:
+      1: 100032
+    second: BASILISK_ L Forearm
+  - first:
+      1: 100034
+    second: BASILISK_ L Hand
+  - first:
+      1: 100036
+    second: BASILISK_ L HorseLink
+  - first:
+      1: 100038
+    second: BASILISK_ L Thigh
+  - first:
+      1: 100040
+    second: BASILISK_ L Toe0
+  - first:
+      1: 100042
+    second: BASILISK_ L Toe01
+  - first:
+      1: 100044
+    second: BASILISK_ L Toe02
+  - first:
+      1: 100046
+    second: BASILISK_ L Toe1
+  - first:
+      1: 100048
+    second: BASILISK_ L Toe11
+  - first:
+      1: 100050
+    second: BASILISK_ L Toe12
+  - first:
+      1: 100052
+    second: BASILISK_ L Toe2
+  - first:
+      1: 100054
+    second: BASILISK_ L Toe21
+  - first:
+      1: 100056
+    second: BASILISK_ L Toe22
+  - first:
+      1: 100058
+    second: BASILISK_ L Toe3
+  - first:
+      1: 100060
+    second: BASILISK_ L Toe31
+  - first:
+      1: 100062
+    second: BASILISK_ L Toe32
+  - first:
+      1: 100064
+    second: BASILISK_ L UpperArm
+  - first:
+      1: 100066
+    second: BASILISK_ Neck
+  - first:
+      1: 100068
+    second: BASILISK_ Neck1
+  - first:
+      1: 100070
+    second: BASILISK_ Neck2
+  - first:
+      1: 100072
+    second: BASILISK_ Neck3
+  - first:
+      1: 100074
+    second: BASILISK_ Neck4
+  - first:
+      1: 100076
+    second: BASILISK_ Neck5
+  - first:
+      1: 100078
+    second: BASILISK_ Neck6
+  - first:
+      1: 100080
+    second: BASILISK_ Neck7
+  - first:
+      1: 100082
+    second: BASILISK_ Pelvis
+  - first:
+      1: 100084
+    second: BASILISK_ Queue de cheval 1
+  - first:
+      1: 100086
+    second: BASILISK_ R Calf
+  - first:
+      1: 100088
+    second: BASILISK_ R Clavicle
+  - first:
+      1: 100090
+    second: BASILISK_ R Finger0
+  - first:
+      1: 100092
+    second: BASILISK_ R Finger01
+  - first:
+      1: 100094
+    second: BASILISK_ R Finger02
+  - first:
+      1: 100096
+    second: BASILISK_ R Finger1
+  - first:
+      1: 100098
+    second: BASILISK_ R Finger11
+  - first:
+      1: 100100
+    second: BASILISK_ R Finger12
+  - first:
+      1: 100102
+    second: BASILISK_ R Finger2
+  - first:
+      1: 100104
+    second: BASILISK_ R Finger21
+  - first:
+      1: 100106
+    second: BASILISK_ R Finger22
+  - first:
+      1: 100108
+    second: BASILISK_ R Foot
+  - first:
+      1: 100110
+    second: BASILISK_ R Forearm
+  - first:
+      1: 100112
+    second: BASILISK_ R Hand
+  - first:
+      1: 100114
+    second: BASILISK_ R HorseLink
+  - first:
+      1: 100116
+    second: BASILISK_ R Thigh
+  - first:
+      1: 100118
+    second: BASILISK_ R Toe0
+  - first:
+      1: 100120
+    second: BASILISK_ R Toe01
+  - first:
+      1: 100122
+    second: BASILISK_ R Toe02
+  - first:
+      1: 100124
+    second: BASILISK_ R Toe1
+  - first:
+      1: 100126
+    second: BASILISK_ R Toe11
+  - first:
+      1: 100128
+    second: BASILISK_ R Toe12
+  - first:
+      1: 100130
+    second: BASILISK_ R Toe2
+  - first:
+      1: 100132
+    second: BASILISK_ R Toe21
+  - first:
+      1: 100134
+    second: BASILISK_ R Toe22
+  - first:
+      1: 100136
+    second: BASILISK_ R Toe3
+  - first:
+      1: 100138
+    second: BASILISK_ R Toe31
+  - first:
+      1: 100140
+    second: BASILISK_ R Toe32
+  - first:
+      1: 100142
+    second: BASILISK_ R UpperArm
+  - first:
+      1: 100144
+    second: BASILISK_ Spine
+  - first:
+      1: 100146
+    second: BASILISK_ Spine1
+  - first:
+      1: 100148
+    second: BASILISK_ Tail
+  - first:
+      1: 100150
+    second: BASILISK_ Tail1
+  - first:
+      1: 100152
+    second: BASILISK_ Tail10
+  - first:
+      1: 100154
+    second: BASILISK_ Tail11
+  - first:
+      1: 100156
+    second: BASILISK_ Tail12
+  - first:
+      1: 100158
+    second: BASILISK_ Tail2
+  - first:
+      1: 100160
+    second: BASILISK_ Tail3
+  - first:
+      1: 100162
+    second: BASILISK_ Tail4
+  - first:
+      1: 100164
+    second: BASILISK_ Tail5
+  - first:
+      1: 100166
+    second: BASILISK_ Tail6
+  - first:
+      1: 100168
+    second: BASILISK_ Tail7
+  - first:
+      1: 100170
+    second: BASILISK_ Tail8
+  - first:
+      1: 100172
+    second: BASILISK_ Tail9
+  - first:
+      1: 100174
+    second: BASILISK_CREST_L_1
+  - first:
+      1: 100176
+    second: BASILISK_CREST_L_1(mis en miroir)
+  - first:
+      1: 100178
+    second: BASILISK_CREST_L_2
+  - first:
+      1: 100180
+    second: BASILISK_CREST_L_2(mis en miroir)
+  - first:
+      1: 100182
+    second: BASILISK_CREST_L_3
+  - first:
+      1: 100184
+    second: BASILISK_CREST_L_3(mis en miroir)
+  - first:
+      1: 100186
+    second: BASILISK_CREST_L_4
+  - first:
+      1: 100188
+    second: BASILISK_CREST_L_4(mis en miroir)
+  - first:
+      1: 100190
+    second: BASILISK_CREST_L_5(mis en miroir)
+  - first:
+      1: 100192
+    second: BASILISK_CREST_L_6
+  - first:
+      1: 100194
+    second: BASILISK_CREST_L_6(mis en miroir)
+  - first:
+      1: 100196
+    second: BASILISK_CREST_L_7
+  - first:
+      1: 100198
+    second: BASILISK_CREST_L_7(mis en miroir)
+  - first:
+      1: 100200
+    second: BASILISK_CREST_L_8
+  - first:
+      1: 100202
+    second: BASILISK_CREST_L_8(mis en miroir)
+  - first:
+      1: 100204
+    second: BASILISK_CREST_L_9
+  - first:
+      1: 100206
+    second: BASILISK_CREST_L_9(mis en miroir)
+  - first:
+      1: 100208
+    second: Structure001
+  - first:
+      1: 100210
+    second: Structure002
+  - first:
+      1: 100212
+    second: Structure003
+  - first:
+      1: 100214
+    second: Structure004
+  - first:
+      1: 100216
+    second: BASILISK_CREST_L_5
+  - first:
+      1: 100218
+    second: BASILISK_CREST_R_1
+  - first:
+      1: 100220
+    second: BASILISK_CREST_R_2
+  - first:
+      1: 100222
+    second: BASILISK_CREST_R_3
+  - first:
+      1: 100224
+    second: BASILISK_CREST_R_4
+  - first:
+      1: 100226
+    second: BASILISK_CREST_R_5
+  - first:
+      1: 100228
+    second: BASILISK_CREST_R_6
+  - first:
+      1: 100230
+    second: BASILISK_CREST_R_7
+  - first:
+      1: 100232
+    second: BASILISK_CREST_R_8
+  - first:
+      1: 100234
+    second: BASILISK_CREST_RL_9
+  - first:
+      1: 100236
+    second: BASILISK_TONGUE_1
+  - first:
+      1: 100238
+    second: BASILISK_TONGUE_2
+  - first:
+      1: 100240
+    second: BASILISK_TONGUE_3
+  - first:
+      1: 100242
+    second: BASILISK_TONGUE_4
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: BASILISK
+  - first:
+      4: 400004
+    second: BASILISK_
+  - first:
+      4: 400006
+    second: BASILISK_ Head
+  - first:
+      4: 400008
+    second: BASILISK_ L Calf
+  - first:
+      4: 400010
+    second: BASILISK_ L Clavicle
+  - first:
+      4: 400012
+    second: BASILISK_ L Finger0
+  - first:
+      4: 400014
+    second: BASILISK_ L Finger01
+  - first:
+      4: 400016
+    second: BASILISK_ L Finger02
+  - first:
+      4: 400018
+    second: BASILISK_ L Finger1
+  - first:
+      4: 400020
+    second: BASILISK_ L Finger11
+  - first:
+      4: 400022
+    second: BASILISK_ L Finger12
+  - first:
+      4: 400024
+    second: BASILISK_ L Finger2
+  - first:
+      4: 400026
+    second: BASILISK_ L Finger21
+  - first:
+      4: 400028
+    second: BASILISK_ L Finger22
+  - first:
+      4: 400030
+    second: BASILISK_ L Foot
+  - first:
+      4: 400032
+    second: BASILISK_ L Forearm
+  - first:
+      4: 400034
+    second: BASILISK_ L Hand
+  - first:
+      4: 400036
+    second: BASILISK_ L HorseLink
+  - first:
+      4: 400038
+    second: BASILISK_ L Thigh
+  - first:
+      4: 400040
+    second: BASILISK_ L Toe0
+  - first:
+      4: 400042
+    second: BASILISK_ L Toe01
+  - first:
+      4: 400044
+    second: BASILISK_ L Toe02
+  - first:
+      4: 400046
+    second: BASILISK_ L Toe1
+  - first:
+      4: 400048
+    second: BASILISK_ L Toe11
+  - first:
+      4: 400050
+    second: BASILISK_ L Toe12
+  - first:
+      4: 400052
+    second: BASILISK_ L Toe2
+  - first:
+      4: 400054
+    second: BASILISK_ L Toe21
+  - first:
+      4: 400056
+    second: BASILISK_ L Toe22
+  - first:
+      4: 400058
+    second: BASILISK_ L Toe3
+  - first:
+      4: 400060
+    second: BASILISK_ L Toe31
+  - first:
+      4: 400062
+    second: BASILISK_ L Toe32
+  - first:
+      4: 400064
+    second: BASILISK_ L UpperArm
+  - first:
+      4: 400066
+    second: BASILISK_ Neck
+  - first:
+      4: 400068
+    second: BASILISK_ Neck1
+  - first:
+      4: 400070
+    second: BASILISK_ Neck2
+  - first:
+      4: 400072
+    second: BASILISK_ Neck3
+  - first:
+      4: 400074
+    second: BASILISK_ Neck4
+  - first:
+      4: 400076
+    second: BASILISK_ Neck5
+  - first:
+      4: 400078
+    second: BASILISK_ Neck6
+  - first:
+      4: 400080
+    second: BASILISK_ Neck7
+  - first:
+      4: 400082
+    second: BASILISK_ Pelvis
+  - first:
+      4: 400084
+    second: BASILISK_ Queue de cheval 1
+  - first:
+      4: 400086
+    second: BASILISK_ R Calf
+  - first:
+      4: 400088
+    second: BASILISK_ R Clavicle
+  - first:
+      4: 400090
+    second: BASILISK_ R Finger0
+  - first:
+      4: 400092
+    second: BASILISK_ R Finger01
+  - first:
+      4: 400094
+    second: BASILISK_ R Finger02
+  - first:
+      4: 400096
+    second: BASILISK_ R Finger1
+  - first:
+      4: 400098
+    second: BASILISK_ R Finger11
+  - first:
+      4: 400100
+    second: BASILISK_ R Finger12
+  - first:
+      4: 400102
+    second: BASILISK_ R Finger2
+  - first:
+      4: 400104
+    second: BASILISK_ R Finger21
+  - first:
+      4: 400106
+    second: BASILISK_ R Finger22
+  - first:
+      4: 400108
+    second: BASILISK_ R Foot
+  - first:
+      4: 400110
+    second: BASILISK_ R Forearm
+  - first:
+      4: 400112
+    second: BASILISK_ R Hand
+  - first:
+      4: 400114
+    second: BASILISK_ R HorseLink
+  - first:
+      4: 400116
+    second: BASILISK_ R Thigh
+  - first:
+      4: 400118
+    second: BASILISK_ R Toe0
+  - first:
+      4: 400120
+    second: BASILISK_ R Toe01
+  - first:
+      4: 400122
+    second: BASILISK_ R Toe02
+  - first:
+      4: 400124
+    second: BASILISK_ R Toe1
+  - first:
+      4: 400126
+    second: BASILISK_ R Toe11
+  - first:
+      4: 400128
+    second: BASILISK_ R Toe12
+  - first:
+      4: 400130
+    second: BASILISK_ R Toe2
+  - first:
+      4: 400132
+    second: BASILISK_ R Toe21
+  - first:
+      4: 400134
+    second: BASILISK_ R Toe22
+  - first:
+      4: 400136
+    second: BASILISK_ R Toe3
+  - first:
+      4: 400138
+    second: BASILISK_ R Toe31
+  - first:
+      4: 400140
+    second: BASILISK_ R Toe32
+  - first:
+      4: 400142
+    second: BASILISK_ R UpperArm
+  - first:
+      4: 400144
+    second: BASILISK_ Spine
+  - first:
+      4: 400146
+    second: BASILISK_ Spine1
+  - first:
+      4: 400148
+    second: BASILISK_ Tail
+  - first:
+      4: 400150
+    second: BASILISK_ Tail1
+  - first:
+      4: 400152
+    second: BASILISK_ Tail10
+  - first:
+      4: 400154
+    second: BASILISK_ Tail11
+  - first:
+      4: 400156
+    second: BASILISK_ Tail12
+  - first:
+      4: 400158
+    second: BASILISK_ Tail2
+  - first:
+      4: 400160
+    second: BASILISK_ Tail3
+  - first:
+      4: 400162
+    second: BASILISK_ Tail4
+  - first:
+      4: 400164
+    second: BASILISK_ Tail5
+  - first:
+      4: 400166
+    second: BASILISK_ Tail6
+  - first:
+      4: 400168
+    second: BASILISK_ Tail7
+  - first:
+      4: 400170
+    second: BASILISK_ Tail8
+  - first:
+      4: 400172
+    second: BASILISK_ Tail9
+  - first:
+      4: 400174
+    second: BASILISK_CREST_L_1
+  - first:
+      4: 400176
+    second: BASILISK_CREST_L_1(mis en miroir)
+  - first:
+      4: 400178
+    second: BASILISK_CREST_L_2
+  - first:
+      4: 400180
+    second: BASILISK_CREST_L_2(mis en miroir)
+  - first:
+      4: 400182
+    second: BASILISK_CREST_L_3
+  - first:
+      4: 400184
+    second: BASILISK_CREST_L_3(mis en miroir)
+  - first:
+      4: 400186
+    second: BASILISK_CREST_L_4
+  - first:
+      4: 400188
+    second: BASILISK_CREST_L_4(mis en miroir)
+  - first:
+      4: 400190
+    second: BASILISK_CREST_L_5(mis en miroir)
+  - first:
+      4: 400192
+    second: BASILISK_CREST_L_6
+  - first:
+      4: 400194
+    second: BASILISK_CREST_L_6(mis en miroir)
+  - first:
+      4: 400196
+    second: BASILISK_CREST_L_7
+  - first:
+      4: 400198
+    second: BASILISK_CREST_L_7(mis en miroir)
+  - first:
+      4: 400200
+    second: BASILISK_CREST_L_8
+  - first:
+      4: 400202
+    second: BASILISK_CREST_L_8(mis en miroir)
+  - first:
+      4: 400204
+    second: BASILISK_CREST_L_9
+  - first:
+      4: 400206
+    second: BASILISK_CREST_L_9(mis en miroir)
+  - first:
+      4: 400208
+    second: Structure001
+  - first:
+      4: 400210
+    second: Structure002
+  - first:
+      4: 400212
+    second: Structure003
+  - first:
+      4: 400214
+    second: Structure004
+  - first:
+      4: 400216
+    second: BASILISK_CREST_L_5
+  - first:
+      4: 400218
+    second: BASILISK_CREST_R_1
+  - first:
+      4: 400220
+    second: BASILISK_CREST_R_2
+  - first:
+      4: 400222
+    second: BASILISK_CREST_R_3
+  - first:
+      4: 400224
+    second: BASILISK_CREST_R_4
+  - first:
+      4: 400226
+    second: BASILISK_CREST_R_5
+  - first:
+      4: 400228
+    second: BASILISK_CREST_R_6
+  - first:
+      4: 400230
+    second: BASILISK_CREST_R_7
+  - first:
+      4: 400232
+    second: BASILISK_CREST_R_8
+  - first:
+      4: 400234
+    second: BASILISK_CREST_RL_9
+  - first:
+      4: 400236
+    second: BASILISK_TONGUE_1
+  - first:
+      4: 400238
+    second: BASILISK_TONGUE_2
+  - first:
+      4: 400240
+    second: BASILISK_TONGUE_3
+  - first:
+      4: 400242
+    second: BASILISK_TONGUE_4
+  - first:
+      43: 4300000
+    second: BASILISK
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: BASILISK
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths:
+    - BASILISK
+    - BASILISK_
+    - BASILISK_/BASILISK_ L Thigh
+    - BASILISK_/BASILISK_ L Thigh/BASILISK_ L Calf
+    - BASILISK_/BASILISK_ L Thigh/BASILISK_ L Calf/BASILISK_ L HorseLink
+    - BASILISK_/BASILISK_ L Thigh/BASILISK_ L Calf/BASILISK_ L HorseLink/BASILISK_
+      L Foot
+    - BASILISK_/BASILISK_ L Thigh/BASILISK_ L Calf/BASILISK_ L HorseLink/BASILISK_
+      L Foot/BASILISK_ L Toe0
+    - BASILISK_/BASILISK_ L Thigh/BASILISK_ L Calf/BASILISK_ L HorseLink/BASILISK_
+      L Foot/BASILISK_ L Toe0/BASILISK_ L Toe01
+    - BASILISK_/BASILISK_ L Thigh/BASILISK_ L Calf/BASILISK_ L HorseLink/BASILISK_
+      L Foot/BASILISK_ L Toe0/BASILISK_ L Toe01/BASILISK_ L Toe02
+    - BASILISK_/BASILISK_ L Thigh/BASILISK_ L Calf/BASILISK_ L HorseLink/BASILISK_
+      L Foot/BASILISK_ L Toe1
+    - BASILISK_/BASILISK_ L Thigh/BASILISK_ L Calf/BASILISK_ L HorseLink/BASILISK_
+      L Foot/BASILISK_ L Toe1/BASILISK_ L Toe11
+    - BASILISK_/BASILISK_ L Thigh/BASILISK_ L Calf/BASILISK_ L HorseLink/BASILISK_
+      L Foot/BASILISK_ L Toe1/BASILISK_ L Toe11/BASILISK_ L Toe12
+    - BASILISK_/BASILISK_ L Thigh/BASILISK_ L Calf/BASILISK_ L HorseLink/BASILISK_
+      L Foot/BASILISK_ L Toe2
+    - BASILISK_/BASILISK_ L Thigh/BASILISK_ L Calf/BASILISK_ L HorseLink/BASILISK_
+      L Foot/BASILISK_ L Toe2/BASILISK_ L Toe21
+    - BASILISK_/BASILISK_ L Thigh/BASILISK_ L Calf/BASILISK_ L HorseLink/BASILISK_
+      L Foot/BASILISK_ L Toe2/BASILISK_ L Toe21/BASILISK_ L Toe22
+    - BASILISK_/BASILISK_ L Thigh/BASILISK_ L Calf/BASILISK_ L HorseLink/BASILISK_
+      L Foot/BASILISK_ L Toe3
+    - BASILISK_/BASILISK_ L Thigh/BASILISK_ L Calf/BASILISK_ L HorseLink/BASILISK_
+      L Foot/BASILISK_ L Toe3/BASILISK_ L Toe31
+    - BASILISK_/BASILISK_ L Thigh/BASILISK_ L Calf/BASILISK_ L HorseLink/BASILISK_
+      L Foot/BASILISK_ L Toe3/BASILISK_ L Toe31/BASILISK_ L Toe32
+    - BASILISK_/BASILISK_ Pelvis
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      L Clavicle
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      L Clavicle/BASILISK_ L UpperArm
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      L Clavicle/BASILISK_ L UpperArm/BASILISK_ L Forearm
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      L Clavicle/BASILISK_ L UpperArm/BASILISK_ L Forearm/BASILISK_ L Hand
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      L Clavicle/BASILISK_ L UpperArm/BASILISK_ L Forearm/BASILISK_ L Hand/BASILISK_
+      L Finger0
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      L Clavicle/BASILISK_ L UpperArm/BASILISK_ L Forearm/BASILISK_ L Hand/BASILISK_
+      L Finger0/BASILISK_ L Finger01
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      L Clavicle/BASILISK_ L UpperArm/BASILISK_ L Forearm/BASILISK_ L Hand/BASILISK_
+      L Finger0/BASILISK_ L Finger01/BASILISK_ L Finger02
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      L Clavicle/BASILISK_ L UpperArm/BASILISK_ L Forearm/BASILISK_ L Hand/BASILISK_
+      L Finger1
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      L Clavicle/BASILISK_ L UpperArm/BASILISK_ L Forearm/BASILISK_ L Hand/BASILISK_
+      L Finger1/BASILISK_ L Finger11
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      L Clavicle/BASILISK_ L UpperArm/BASILISK_ L Forearm/BASILISK_ L Hand/BASILISK_
+      L Finger1/BASILISK_ L Finger11/BASILISK_ L Finger12
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      L Clavicle/BASILISK_ L UpperArm/BASILISK_ L Forearm/BASILISK_ L Hand/BASILISK_
+      L Finger2
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      L Clavicle/BASILISK_ L UpperArm/BASILISK_ L Forearm/BASILISK_ L Hand/BASILISK_
+      L Finger2/BASILISK_ L Finger21
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      L Clavicle/BASILISK_ L UpperArm/BASILISK_ L Forearm/BASILISK_ L Hand/BASILISK_
+      L Finger2/BASILISK_ L Finger21/BASILISK_ L Finger22
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      Neck1
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      Neck1/BASILISK_ Neck2
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      Neck1/BASILISK_ Neck2/BASILISK_ Neck3
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      Neck1/BASILISK_ Neck2/BASILISK_ Neck3/BASILISK_ Neck4
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      Neck1/BASILISK_ Neck2/BASILISK_ Neck3/BASILISK_ Neck4/BASILISK_ Neck5
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      Neck1/BASILISK_ Neck2/BASILISK_ Neck3/BASILISK_ Neck4/BASILISK_ Neck5/BASILISK_
+      Neck6
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      Neck1/BASILISK_ Neck2/BASILISK_ Neck3/BASILISK_ Neck4/BASILISK_ Neck5/BASILISK_
+      Neck6/BASILISK_ Neck7
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      Neck1/BASILISK_ Neck2/BASILISK_ Neck3/BASILISK_ Neck4/BASILISK_ Neck5/BASILISK_
+      Neck6/BASILISK_ Neck7/BASILISK_ Head
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      Neck1/BASILISK_ Neck2/BASILISK_ Neck3/BASILISK_ Neck4/BASILISK_ Neck5/BASILISK_
+      Neck6/BASILISK_ Neck7/BASILISK_ Head/BASILISK_ Queue de cheval 1
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      Neck1/BASILISK_ Neck2/BASILISK_ Neck3/BASILISK_ Neck4/BASILISK_ Neck5/BASILISK_
+      Neck6/BASILISK_ Neck7/BASILISK_ Head/BASILISK_ Queue de cheval 1/BASILISK_TONGUE_1
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      Neck1/BASILISK_ Neck2/BASILISK_ Neck3/BASILISK_ Neck4/BASILISK_ Neck5/BASILISK_
+      Neck6/BASILISK_ Neck7/BASILISK_ Head/BASILISK_ Queue de cheval 1/BASILISK_TONGUE_1/BASILISK_TONGUE_2
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      Neck1/BASILISK_ Neck2/BASILISK_ Neck3/BASILISK_ Neck4/BASILISK_ Neck5/BASILISK_
+      Neck6/BASILISK_ Neck7/BASILISK_ Head/BASILISK_ Queue de cheval 1/BASILISK_TONGUE_1/BASILISK_TONGUE_2/BASILISK_TONGUE_3
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      Neck1/BASILISK_ Neck2/BASILISK_ Neck3/BASILISK_ Neck4/BASILISK_ Neck5/BASILISK_
+      Neck6/BASILISK_ Neck7/BASILISK_ Head/BASILISK_ Queue de cheval 1/BASILISK_TONGUE_1/BASILISK_TONGUE_2/BASILISK_TONGUE_3/BASILISK_TONGUE_4
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      Neck1/BASILISK_ Neck2/BASILISK_ Neck3/BASILISK_ Neck4/BASILISK_ Neck5/BASILISK_
+      Neck6/BASILISK_ Neck7/BASILISK_ Head/BASILISK_CREST_L_3
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      Neck1/BASILISK_ Neck2/BASILISK_ Neck3/BASILISK_ Neck4/BASILISK_ Neck5/BASILISK_
+      Neck6/BASILISK_ Neck7/BASILISK_ Head/BASILISK_CREST_L_7
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      Neck1/BASILISK_ Neck2/BASILISK_ Neck3/BASILISK_ Neck4/BASILISK_ Neck5/BASILISK_
+      Neck6/BASILISK_ Neck7/BASILISK_ Head/BASILISK_CREST_R_3
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      Neck1/BASILISK_ Neck2/BASILISK_ Neck3/BASILISK_ Neck4/BASILISK_ Neck5/BASILISK_
+      Neck6/BASILISK_ Neck7/BASILISK_ Head/BASILISK_CREST_R_7
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      R Clavicle
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      R Clavicle/BASILISK_ R UpperArm
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      R Clavicle/BASILISK_ R UpperArm/BASILISK_ R Forearm
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      R Clavicle/BASILISK_ R UpperArm/BASILISK_ R Forearm/BASILISK_ R Hand
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      R Clavicle/BASILISK_ R UpperArm/BASILISK_ R Forearm/BASILISK_ R Hand/BASILISK_
+      R Finger0
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      R Clavicle/BASILISK_ R UpperArm/BASILISK_ R Forearm/BASILISK_ R Hand/BASILISK_
+      R Finger0/BASILISK_ R Finger01
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      R Clavicle/BASILISK_ R UpperArm/BASILISK_ R Forearm/BASILISK_ R Hand/BASILISK_
+      R Finger0/BASILISK_ R Finger01/BASILISK_ R Finger02
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      R Clavicle/BASILISK_ R UpperArm/BASILISK_ R Forearm/BASILISK_ R Hand/BASILISK_
+      R Finger1
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      R Clavicle/BASILISK_ R UpperArm/BASILISK_ R Forearm/BASILISK_ R Hand/BASILISK_
+      R Finger1/BASILISK_ R Finger11
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      R Clavicle/BASILISK_ R UpperArm/BASILISK_ R Forearm/BASILISK_ R Hand/BASILISK_
+      R Finger1/BASILISK_ R Finger11/BASILISK_ R Finger12
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      R Clavicle/BASILISK_ R UpperArm/BASILISK_ R Forearm/BASILISK_ R Hand/BASILISK_
+      R Finger2
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      R Clavicle/BASILISK_ R UpperArm/BASILISK_ R Forearm/BASILISK_ R Hand/BASILISK_
+      R Finger2/BASILISK_ R Finger21
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Spine/BASILISK_ Spine1/BASILISK_ Neck/BASILISK_
+      R Clavicle/BASILISK_ R UpperArm/BASILISK_ R Forearm/BASILISK_ R Hand/BASILISK_
+      R Finger2/BASILISK_ R Finger21/BASILISK_ R Finger22
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Tail
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Tail/BASILISK_ Tail1
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Tail/BASILISK_ Tail1/BASILISK_ Tail2
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Tail/BASILISK_ Tail1/BASILISK_ Tail2/BASILISK_
+      Tail3
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Tail/BASILISK_ Tail1/BASILISK_ Tail2/BASILISK_
+      Tail3/BASILISK_ Tail4
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Tail/BASILISK_ Tail1/BASILISK_ Tail2/BASILISK_
+      Tail3/BASILISK_ Tail4/BASILISK_ Tail5
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Tail/BASILISK_ Tail1/BASILISK_ Tail2/BASILISK_
+      Tail3/BASILISK_ Tail4/BASILISK_ Tail5/BASILISK_ Tail6
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Tail/BASILISK_ Tail1/BASILISK_ Tail2/BASILISK_
+      Tail3/BASILISK_ Tail4/BASILISK_ Tail5/BASILISK_ Tail6/BASILISK_ Tail7
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Tail/BASILISK_ Tail1/BASILISK_ Tail2/BASILISK_
+      Tail3/BASILISK_ Tail4/BASILISK_ Tail5/BASILISK_ Tail6/BASILISK_ Tail7/BASILISK_
+      Tail8
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Tail/BASILISK_ Tail1/BASILISK_ Tail2/BASILISK_
+      Tail3/BASILISK_ Tail4/BASILISK_ Tail5/BASILISK_ Tail6/BASILISK_ Tail7/BASILISK_
+      Tail8/BASILISK_ Tail9
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Tail/BASILISK_ Tail1/BASILISK_ Tail2/BASILISK_
+      Tail3/BASILISK_ Tail4/BASILISK_ Tail5/BASILISK_ Tail6/BASILISK_ Tail7/BASILISK_
+      Tail8/BASILISK_ Tail9/BASILISK_ Tail10
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Tail/BASILISK_ Tail1/BASILISK_ Tail2/BASILISK_
+      Tail3/BASILISK_ Tail4/BASILISK_ Tail5/BASILISK_ Tail6/BASILISK_ Tail7/BASILISK_
+      Tail8/BASILISK_ Tail9/BASILISK_ Tail10/BASILISK_ Tail11
+    - BASILISK_/BASILISK_ Pelvis/BASILISK_ Tail/BASILISK_ Tail1/BASILISK_ Tail2/BASILISK_
+      Tail3/BASILISK_ Tail4/BASILISK_ Tail5/BASILISK_ Tail6/BASILISK_ Tail7/BASILISK_
+      Tail8/BASILISK_ Tail9/BASILISK_ Tail10/BASILISK_ Tail11/BASILISK_ Tail12
+    - BASILISK_/BASILISK_ R Thigh
+    - BASILISK_/BASILISK_ R Thigh/BASILISK_ R Calf
+    - BASILISK_/BASILISK_ R Thigh/BASILISK_ R Calf/BASILISK_ R HorseLink
+    - BASILISK_/BASILISK_ R Thigh/BASILISK_ R Calf/BASILISK_ R HorseLink/BASILISK_
+      R Foot
+    - BASILISK_/BASILISK_ R Thigh/BASILISK_ R Calf/BASILISK_ R HorseLink/BASILISK_
+      R Foot/BASILISK_ R Toe0
+    - BASILISK_/BASILISK_ R Thigh/BASILISK_ R Calf/BASILISK_ R HorseLink/BASILISK_
+      R Foot/BASILISK_ R Toe0/BASILISK_ R Toe01
+    - BASILISK_/BASILISK_ R Thigh/BASILISK_ R Calf/BASILISK_ R HorseLink/BASILISK_
+      R Foot/BASILISK_ R Toe0/BASILISK_ R Toe01/BASILISK_ R Toe02
+    - BASILISK_/BASILISK_ R Thigh/BASILISK_ R Calf/BASILISK_ R HorseLink/BASILISK_
+      R Foot/BASILISK_ R Toe1
+    - BASILISK_/BASILISK_ R Thigh/BASILISK_ R Calf/BASILISK_ R HorseLink/BASILISK_
+      R Foot/BASILISK_ R Toe1/BASILISK_ R Toe11
+    - BASILISK_/BASILISK_ R Thigh/BASILISK_ R Calf/BASILISK_ R HorseLink/BASILISK_
+      R Foot/BASILISK_ R Toe1/BASILISK_ R Toe11/BASILISK_ R Toe12
+    - BASILISK_/BASILISK_ R Thigh/BASILISK_ R Calf/BASILISK_ R HorseLink/BASILISK_
+      R Foot/BASILISK_ R Toe2
+    - BASILISK_/BASILISK_ R Thigh/BASILISK_ R Calf/BASILISK_ R HorseLink/BASILISK_
+      R Foot/BASILISK_ R Toe2/BASILISK_ R Toe21
+    - BASILISK_/BASILISK_ R Thigh/BASILISK_ R Calf/BASILISK_ R HorseLink/BASILISK_
+      R Foot/BASILISK_ R Toe2/BASILISK_ R Toe21/BASILISK_ R Toe22
+    - BASILISK_/BASILISK_ R Thigh/BASILISK_ R Calf/BASILISK_ R HorseLink/BASILISK_
+      R Foot/BASILISK_ R Toe3
+    - BASILISK_/BASILISK_ R Thigh/BASILISK_ R Calf/BASILISK_ R HorseLink/BASILISK_
+      R Foot/BASILISK_ R Toe3/BASILISK_ R Toe31
+    - BASILISK_/BASILISK_ R Thigh/BASILISK_ R Calf/BASILISK_ R HorseLink/BASILISK_
+      R Foot/BASILISK_ R Toe3/BASILISK_ R Toe31/BASILISK_ R Toe32
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 634
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - c7d4e15a7ba0e4d45beb013b163de793
+  - e60c27d0fe7bf724d9c49876f96e789c
+  - e85f5570ac2155b4f8f1c366a7a15b2e
+  - 36cd2b55a5ff9fc4f8270e6e5a758049
+  - 3199b4a16cfe03e4c8f43e47c3860099
+  - e4c758941b3995f479811d830ae4822a
+  - a6acf4916de4695498249303403f5563
+  - 4e033786baf0c7a42996fc7866d84889
+  - e91d257c29109af45bf83ff9af76a937
+  - 726bf5de09ddffe4db672a0bfc8f4f6d
+  - 74f77783a4b1d7b45af655250899c717
+  - b30514af2bf6f1f4f92576e734641fc1
+  - 24e0020859482d743a1b386aa8a89965
+  - 57d186afa548c054cae8dc1c57fd5de2
+  - 58b269322e78dba43a301b3b711bdb1d
+  - 74d2cb5c14e301940ad0789502b26ef4
+  - 3a06e919edb775b4ca0a73f370af4b81
+  - 9eba3a0346999bc4cb0017d4faaaae61
+  - e60a48b64bd2f7d4c9a81b46b4ec6899
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: BASILISK(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_
+      parentName: BASILISK(Clone)
+      position: {x: 0, y: 120.722374, z: -20.772976}
+      rotation: {x: -0.52133375, y: 0.5213338, z: 0.4777143, w: 0.47771454}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ L Thigh
+      parentName: BASILISK_
+      position: {x: -0, y: 33.84933, z: 0.000005722046}
+      rotation: {x: 0.30309248, y: -0.6513733, z: 0.22416195, w: 0.65848243}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: BASILISK_ L Calf
+      parentName: BASILISK_ L Thigh
+      position: {x: -56.06867, y: 0, z: 0}
+      rotation: {x: 0.024944667, y: -0.06162209, z: 0.44905904, w: 0.89102554}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: BASILISK_ L HorseLink
+      parentName: BASILISK_ L Calf
+      position: {x: -58.440556, y: 0, z: 0.0000038146973}
+      rotation: {x: -0.000000029189414, y: 0.0000000053295843, z: -0.47930795, w: 0.8776468}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: BASILISK_ L Foot
+      parentName: BASILISK_ L HorseLink
+      position: {x: -39.30854, y: 0.0000014305115, z: 0}
+      rotation: {x: 0.10098621, y: 0.36711028, z: -0.55562776, w: 0.7391277}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: BASILISK_ L Toe0
+      parentName: BASILISK_ L Foot
+      position: {x: -17.31319, y: 14.866186, z: -8.389057}
+      rotation: {x: -0.21720874, y: -0.22289608, z: -0.6718472, w: 0.6721302}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: BASILISK_ L Toe01
+      parentName: BASILISK_ L Toe0
+      position: {x: -8.48941, y: 0, z: 0.0000038146973}
+      rotation: {x: 2.1827873e-10, y: -0.000000018971834, z: -4.6566134e-10, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: BASILISK_ L Toe02
+      parentName: BASILISK_ L Toe01
+      position: {x: -10.12191, y: -0.000000029802322, z: -0.0000038146973}
+      rotation: {x: 2.1827873e-10, y: -0.000000018971834, z: -4.6566134e-10, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: BASILISK_ L Toe1
+      parentName: BASILISK_ L Foot
+      position: {x: -17.358631, y: 18.10816, z: 0.2351036}
+      rotation: {x: -0.000000019552472, y: 0.0000000109875335, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: BASILISK_ L Toe11
+      parentName: BASILISK_ L Toe1
+      position: {x: -9.328258, y: 0, z: 0}
+      rotation: {x: 5.820766e-11, y: -0.0000000057279976, z: 3.3341334e-19, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: BASILISK_ L Toe12
+      parentName: BASILISK_ L Toe11
+      position: {x: -10.35508, y: 0, z: 0}
+      rotation: {x: 5.820766e-11, y: -0.0000000057279976, z: 3.3341334e-19, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: BASILISK_ L Toe2
+      parentName: BASILISK_ L Foot
+      position: {x: -17.326962, y: 16.264908, z: 8.808407}
+      rotation: {x: 0.17212069, y: 0.17920336, z: -0.68522966, w: 0.684632}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: BASILISK_ L Toe21
+      parentName: BASILISK_ L Toe2
+      position: {x: -8.651552, y: -0.000000029802322, z: 0}
+      rotation: {x: 1.1641532e-10, y: -0.000000008598363, z: 1.0009812e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ L Toe22
+      parentName: BASILISK_ L Toe21
+      position: {x: -9.956995, y: -0.000000029802322, z: 0}
+      rotation: {x: 1.1641532e-10, y: -0.000000008598363, z: 1.0009812e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ L Toe3
+      parentName: BASILISK_ L Foot
+      position: {x: -9.642485, y: -3.2164476, z: 1.8394661}
+      rotation: {x: 0.8399036, y: 0.54273003, z: 0.0013390827, w: -0.0020723986}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: BASILISK_ L Toe31
+      parentName: BASILISK_ L Toe3
+      position: {x: -6.838253, y: 0.0000009536743, z: 0.0000038146973}
+      rotation: {x: -0.00000000698076, y: -0.000000006721196, z: 0.09158738, w: 0.9957971}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: BASILISK_ L Toe32
+      parentName: BASILISK_ L Toe31
+      position: {x: -15.744722, y: -0.0000047683716, z: 0}
+      rotation: {x: 0.0000000030267984, y: -8.149072e-10, z: 0.000000014901161, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ R Thigh
+      parentName: BASILISK_
+      position: {x: -0, y: -33.84933, z: 0.000005722046}
+      rotation: {x: 0.6584824, y: -0.2241616, z: 0.65137345, w: 0.30309263}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1}
+    - name: BASILISK_ R Calf
+      parentName: BASILISK_ R Thigh
+      position: {x: -56.068653, y: -0.0000076293945, z: -0.0000038146973}
+      rotation: {x: -0.024944788, y: 0.0616221, z: 0.44905934, w: 0.8910254}
+      scale: {x: 0.99999976, y: 1.0000001, z: 0.99999994}
+    - name: BASILISK_ R HorseLink
+      parentName: BASILISK_ R Calf
+      position: {x: -58.440544, y: 0, z: 0.0000038146973}
+      rotation: {x: -0.000000012685088, y: 0.000000012233486, z: -0.47930816, w: 0.8776467}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1}
+    - name: BASILISK_ R Foot
+      parentName: BASILISK_ R HorseLink
+      position: {x: -39.308556, y: 0.00000047683716, z: 0}
+      rotation: {x: -0.10098616, y: -0.3671103, z: -0.55562764, w: 0.7391277}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: BASILISK_ R Toe0
+      parentName: BASILISK_ R Foot
+      position: {x: -17.31319, y: 14.866185, z: 8.389057}
+      rotation: {x: 0.21720876, y: 0.22289607, z: -0.6718472, w: 0.67213017}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: BASILISK_ R Toe01
+      parentName: BASILISK_ R Toe0
+      position: {x: -8.48941, y: 0.000000029802322, z: -0.0000038146973}
+      rotation: {x: -1.09139364e-10, y: 0.000000005398306, z: -4.656613e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ R Toe02
+      parentName: BASILISK_ R Toe01
+      position: {x: -10.12191, y: 0.000000029802322, z: 0}
+      rotation: {x: -1.09139364e-10, y: 0.000000005398306, z: -4.656613e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ R Toe1
+      parentName: BASILISK_ R Foot
+      position: {x: -17.35863, y: 18.108162, z: -0.23509598}
+      rotation: {x: 0.000000016120195, y: -0.000000014419812, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: BASILISK_ R Toe11
+      parentName: BASILISK_ R Toe1
+      position: {x: -9.328259, y: -0.000000059604645, z: -0.0000076293945}
+      rotation: {x: -5.820767e-11, y: 8.7402435e-10, z: 4.656613e-10, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: BASILISK_ R Toe12
+      parentName: BASILISK_ R Toe11
+      position: {x: -10.355085, y: -0.000000029802322, z: 0.0000038146973}
+      rotation: {x: -5.820767e-11, y: 8.7402435e-10, z: 4.656613e-10, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: BASILISK_ R Toe2
+      parentName: BASILISK_ R Foot
+      position: {x: -17.326963, y: 16.264908, z: -8.808411}
+      rotation: {x: -0.17212066, y: -0.17920332, z: -0.6852297, w: 0.68463194}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: BASILISK_ R Toe21
+      parentName: BASILISK_ R Toe2
+      position: {x: -8.651552, y: 0.000000029802322, z: 0}
+      rotation: {x: 2.9103834e-11, y: 0.0000000038203325, z: -9.313226e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ R Toe22
+      parentName: BASILISK_ R Toe21
+      position: {x: -9.956993, y: -0.000000029802322, z: 0}
+      rotation: {x: 2.9103834e-11, y: 0.0000000038203325, z: -9.313226e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ R Toe3
+      parentName: BASILISK_ R Foot
+      position: {x: -9.642485, y: -3.2164474, z: -1.8394661}
+      rotation: {x: 0.83990365, y: 0.54273003, z: -0.0013390778, w: 0.0020723953}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: BASILISK_ R Toe31
+      parentName: BASILISK_ R Toe3
+      position: {x: -6.8382473, y: -0.0000009536743, z: -0.0000038146973}
+      rotation: {x: 0.000000001377835, y: -0.0000000022698623, z: 0.09158735, w: 0.9957971}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: BASILISK_ R Toe32
+      parentName: BASILISK_ R Toe31
+      position: {x: -15.744724, y: 0.0000038146973, z: 0}
+      rotation: {x: -0.0000000019790602, y: 0.0000000073341653, z: -0.000000044703484, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ Pelvis
+      parentName: BASILISK_
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.5, y: 0.5, z: 0.49999934, w: 0.50000066}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ Spine
+      parentName: BASILISK_ Pelvis
+      position: {x: -27.352104, y: -2.0076752, z: 0.000043401204}
+      rotation: {x: -0.0000020228306, y: 0.0000006398756, z: 0.07441854, w: 0.99722713}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ Spine1
+      parentName: BASILISK_ Spine
+      position: {x: -32.148396, y: -0.025314331, z: -0.00000007021299}
+      rotation: {x: 3.2790678e-14, y: -0.00000020750856, z: 0.07481561, w: 0.9971974}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ Neck
+      parentName: BASILISK_ Spine1
+      position: {x: -32.15103, y: -0.014389038, z: -0.000000039915903}
+      rotation: {x: 0.000000023305237, y: 0.00000001811915, z: -0.06440003, w: 0.9979242}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: BASILISK_ L Clavicle
+      parentName: BASILISK_ Neck
+      position: {x: -0, y: 0.014411926, z: 7.227876}
+      rotation: {x: -0.6238751, y: 0.14496388, z: 0.76740587, w: -0.029217958}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999998}
+    - name: BASILISK_ L UpperArm
+      parentName: BASILISK_ L Clavicle
+      position: {x: -24.504242, y: 0, z: -0.0000076293945}
+      rotation: {x: -0.65884525, y: 0.13848205, z: -0.013012004, w: 0.73930806}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: BASILISK_ L Forearm
+      parentName: BASILISK_ L UpperArm
+      position: {x: -56.563198, y: 0, z: 0.0000076293945}
+      rotation: {x: -0.014492033, y: 0.027813595, z: 0.01292952, w: 0.9994244}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: BASILISK_ L Hand
+      parentName: BASILISK_ L Forearm
+      position: {x: -38.58526, y: -0.0000076293945, z: 0}
+      rotation: {x: -0.64359206, y: -0.22105283, z: 0.046947323, w: 0.7312462}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: BASILISK_ L Finger0
+      parentName: BASILISK_ L Hand
+      position: {x: -4.2516785, y: -0.65286255, z: -2.9423523}
+      rotation: {x: 0.41124535, y: 0.21266016, z: -0.049284317, w: 0.8849995}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: BASILISK_ L Finger01
+      parentName: BASILISK_ L Finger0
+      position: {x: -2.4133835, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.011163625, w: 0.9999377}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ L Finger02
+      parentName: BASILISK_ L Finger01
+      position: {x: -6.154854, y: 0, z: 0}
+      rotation: {x: 1.0396934e-11, y: -9.312645e-10, z: 0.011163624, w: 0.9999377}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: BASILISK_ L Finger1
+      parentName: BASILISK_ L Hand
+      position: {x: -10.674858, y: -0.0027236938, z: -0.61099243}
+      rotation: {x: 0.68021053, y: 0.15622947, z: -0.19190682, w: 0.689984}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: BASILISK_ L Finger11
+      parentName: BASILISK_ L Finger1
+      position: {x: -24.191044, y: 0.000015258789, z: 0}
+      rotation: {x: -0, y: -0.00000008940694, z: -0.04074213, w: 0.9991697}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ L Finger12
+      parentName: BASILISK_ L Finger11
+      position: {x: -30.203308, y: 0.000015258789, z: 0.000015258789}
+      rotation: {x: -0.0000000074115003, y: 7.621061e-10, z: -0.10228816, w: 0.9947548}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: BASILISK_ L Finger2
+      parentName: BASILISK_ L Hand
+      position: {x: -6.665764, y: -0.85624695, z: 3.7470245}
+      rotation: {x: 0.6994961, y: 0.25760287, z: -0.19746718, w: 0.6366733}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: BASILISK_ L Finger21
+      parentName: BASILISK_ L Finger2
+      position: {x: -19.847656, y: 0, z: 0.000015258789}
+      rotation: {x: 0.000000059604623, y: 0.00000014901156, z: -0.04086615, w: 0.99916464}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: BASILISK_ L Finger22
+      parentName: BASILISK_ L Finger21
+      position: {x: -24.693604, y: 0, z: -0.0000076293945}
+      rotation: {x: 0.000000013816444, y: -0.000000009309224, z: -0.12890273, w: 0.99165726}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+    - name: BASILISK_ R Clavicle
+      parentName: BASILISK_ Neck
+      position: {x: -0, y: 0.014457703, z: -7.227875}
+      rotation: {x: 0.62387437, y: -0.14496635, z: 0.76740587, w: -0.02921967}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: BASILISK_ R UpperArm
+      parentName: BASILISK_ R Clavicle
+      position: {x: -24.504227, y: 0.000015258789, z: -0.000015258789}
+      rotation: {x: 0.65884537, y: -0.13848211, z: -0.013012884, w: 0.739308}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: BASILISK_ R Forearm
+      parentName: BASILISK_ R UpperArm
+      position: {x: -56.563187, y: 0, z: 0}
+      rotation: {x: 0.014492061, y: -0.027813427, z: 0.012930018, w: 0.99942446}
+      scale: {x: 0.9999998, y: 1, z: 0.99999994}
+    - name: BASILISK_ R Hand
+      parentName: BASILISK_ R Forearm
+      position: {x: -38.58525, y: 0.000015258789, z: 0}
+      rotation: {x: 0.6435922, y: 0.22105227, z: 0.046947338, w: 0.7312461}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: BASILISK_ R Finger0
+      parentName: BASILISK_ R Hand
+      position: {x: -4.2516785, y: -0.65286255, z: 2.9423523}
+      rotation: {x: -0.4112474, y: -0.21265902, z: -0.049282048, w: 0.88499886}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+    - name: BASILISK_ R Finger01
+      parentName: BASILISK_ R Finger0
+      position: {x: -2.4133835, y: 0.000015258789, z: 0.0000076293945}
+      rotation: {x: -1.0396932e-11, y: 9.312645e-10, z: 0.011163621, w: 0.9999377}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ R Finger02
+      parentName: BASILISK_ R Finger01
+      position: {x: -6.154846, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.011163629, w: 0.9999377}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: BASILISK_ R Finger1
+      parentName: BASILISK_ R Hand
+      position: {x: -10.674866, y: -0.0027236938, z: 0.61099243}
+      rotation: {x: -0.6802106, y: -0.15623012, z: -0.19190632, w: 0.6899839}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: BASILISK_ R Finger11
+      parentName: BASILISK_ R Finger1
+      position: {x: -24.191048, y: 0.0000076293945, z: -0.0000076293945}
+      rotation: {x: -0.000000029802319, y: 0.000000052154057, z: -0.040741336, w: 0.99916977}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ R Finger12
+      parentName: BASILISK_ R Finger11
+      position: {x: -30.203312, y: 0, z: 0.0000076293945}
+      rotation: {x: 0.0000000074115003, y: -7.6210604e-10, z: -0.10228814, w: 0.9947548}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: BASILISK_ R Finger2
+      parentName: BASILISK_ R Hand
+      position: {x: -6.665764, y: -0.8562546, z: -3.7470322}
+      rotation: {x: -0.6994969, y: -0.2576014, z: -0.1974651, w: 0.63667345}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: BASILISK_ R Finger21
+      parentName: BASILISK_ R Finger2
+      position: {x: -19.847656, y: 0, z: -0.0000076293945}
+      rotation: {x: -0.0000001490116, y: 0.000000104308114, z: -0.04086646, w: 0.9991646}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: BASILISK_ R Finger22
+      parentName: BASILISK_ R Finger21
+      position: {x: -24.693604, y: -0.0000038146973, z: 0}
+      rotation: {x: -0.000000014776846, y: 0.0000000019208009, z: -0.12890273, w: 0.99165726}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: BASILISK_ Neck1
+      parentName: BASILISK_ Neck
+      position: {x: -18.126266, y: -0.009124756, z: -0.000000025291229}
+      rotation: {x: -5.5416243e-14, y: -0.0000002641209, z: 0.095226735, w: 0.9954556}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: BASILISK_ Neck2
+      parentName: BASILISK_ Neck1
+      position: {x: -11.662323, y: -0.009880066, z: -0.000000027437636}
+      rotation: {x: 1.3792553e-13, y: -0.00000023800824, z: 0.08581205, w: 0.99631137}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: BASILISK_ Neck3
+      parentName: BASILISK_ Neck2
+      position: {x: -12.60939, y: -0.011016846, z: -0.00000003054447}
+      rotation: {x: -1.341139e-13, y: -0.0000001145879, z: 0.041313753, w: 0.9991462}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ Neck4
+      parentName: BASILISK_ Neck3
+      position: {x: -13.879868, y: -0.010910034, z: -0.000000030224328}
+      rotation: {x: -0.000000027575597, y: 0.0000003546407, z: -0.21455847, w: 0.9767112}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: BASILISK_ Neck5
+      parentName: BASILISK_ Neck4
+      position: {x: -13.743362, y: -0.011650085, z: -0.000000032283424}
+      rotation: {x: -1.3858172e-13, y: 0.00000012194907, z: -0.04396779, w: 0.999033}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: BASILISK_ Neck6
+      parentName: BASILISK_ Neck5
+      position: {x: -14.66539, y: -0.010925293, z: -0.00000003032619}
+      rotation: {x: 8.316856e-14, y: 0.00000023886128, z: -0.08611958, w: 0.9962848}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: BASILISK_ Neck7
+      parentName: BASILISK_ Neck6
+      position: {x: -13.955032, y: -0.014968872, z: -0.000000041516614}
+      rotation: {x: 7.924816e-17, y: 0.00000025904646, z: -0.09339717, w: 0.99562895}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ Head
+      parentName: BASILISK_ Neck7
+      position: {x: -19.138168, y: 0, z: -2.910383e-11}
+      rotation: {x: 8.811479e-14, y: 0.00000040238118, z: -0.14507471, w: 0.9894207}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: BASILISK_ Queue de cheval 1
+      parentName: BASILISK_ Head
+      position: {x: -37.84828, y: 18.542465, z: 0.000030667143}
+      rotation: {x: 5.970778e-13, y: 0.0000009686751, z: -0.34924883, w: 0.9370301}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_TONGUE_1
+      parentName: BASILISK_ Queue de cheval 1
+      position: {x: -5.6407685, y: -0.7744293, z: 0.000091552734}
+      rotation: {x: 0.98322743, y: 0.1823836, z: 0.000000650045, w: -0.0000009331573}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: BASILISK_TONGUE_2
+      parentName: BASILISK_TONGUE_1
+      position: {x: -8.41153, y: 0.000030517578, z: -0.0000009702635}
+      rotation: {x: 0.000000005423037, y: -0.00000004733394, z: 0.1138251, w: 0.9935008}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_TONGUE_3
+      parentName: BASILISK_TONGUE_2
+      position: {x: -7.4983826, y: 0, z: 7.275958e-12}
+      rotation: {x: 0, y: 0, z: 0.12450133, w: 0.99221945}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_TONGUE_4
+      parentName: BASILISK_TONGUE_3
+      position: {x: -5.897583, y: 0, z: 0.00000014260513}
+      rotation: {x: 7.5181447e-17, y: -8.7183074e-16, z: 0.08591513, w: 0.9963025}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_CREST_L_3
+      parentName: BASILISK_ Head
+      position: {x: -11.994453, y: 5.784012, z: 27.394836}
+      rotation: {x: -0.5930159, y: 0.09203128, z: 0.79978275, w: -0.0144916875}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999999}
+    - name: BASILISK_CREST_L_7
+      parentName: BASILISK_ Head
+      position: {x: -28.38989, y: 27.008865, z: 9.996185}
+      rotation: {x: -0.53249884, y: 0.8427318, z: 0.04222366, w: 0.06682354}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: BASILISK_CREST_R_7
+      parentName: BASILISK_ Head
+      position: {x: -28.389904, y: 27.00891, z: -9.996024}
+      rotation: {x: -0.06682284, y: -0.042222265, z: -0.8427318, w: 0.532499}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+    - name: BASILISK_CREST_R_3
+      parentName: BASILISK_ Head
+      position: {x: -11.99444, y: 5.784086, z: -27.394737}
+      rotation: {x: 0.01449257, y: -0.7997826, z: -0.09203236, w: 0.5930159}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: BASILISK_ Tail
+      parentName: BASILISK_ Pelvis
+      position: {x: 42.013878, y: 3.7139893, z: 0.000026620197}
+      rotation: {x: 0.0000008334968, y: -0.0000007390248, z: 0.99767697, w: -0.068122126}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: BASILISK_ Tail1
+      parentName: BASILISK_ Tail
+      position: {x: -38.79238, y: -0.03366089, z: -0.00000009336509}
+      rotation: {x: 6.408491e-14, y: -0.0000000025464153, z: 0.00091808324, w: 0.9999996}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: BASILISK_ Tail2
+      parentName: BASILISK_ Tail1
+      position: {x: -42.296814, y: -0.034225464, z: -0.000000094936695}
+      rotation: {x: 6.3904536e-14, y: -0.000000002546302, z: 0.00091805344, w: 0.9999996}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: BASILISK_ Tail3
+      parentName: BASILISK_ Tail2
+      position: {x: -42.985527, y: -0.033966064, z: -0.000000094179995}
+      rotation: {x: -1.6335976e-13, y: -0.0000000025463591, z: 0.0009180759, w: 0.9999996}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: BASILISK_ Tail4
+      parentName: BASILISK_ Tail3
+      position: {x: -42.63777, y: -0.03425598, z: -0.00000009505311}
+      rotation: {x: -1.6326956e-13, y: -0.000000002546416, z: 0.00091809087, w: 0.9999996}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: BASILISK_ Tail5
+      parentName: BASILISK_ Tail4
+      position: {x: -43.016068, y: -0.03388977, z: -0.00000009400537}
+      rotation: {x: -1.6338573e-13, y: -0.0000000025463307, z: 0.0009180759, w: 0.9999996}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: BASILISK_ Tail6
+      parentName: BASILISK_ Tail5
+      position: {x: -42.57457, y: -0.03413391, z: -0.00000009464566}
+      rotation: {x: -1.633147e-13, y: -0.0000000025463875, z: 0.0009180833, w: 0.9999996}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: BASILISK_ Tail7
+      parentName: BASILISK_ Tail6
+      position: {x: -42.865417, y: -0.03366089, z: -0.0000000934815}
+      rotation: {x: 6.39685e-14, y: -0.00000000254633, z: 0.0009180683, w: 0.9999996}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: BASILISK_ Tail8
+      parentName: BASILISK_ Tail7
+      position: {x: -42.28824, y: -0.034179688, z: -0.00000009476207}
+      rotation: {x: 7.033647e-14, y: 0.000000013248192, z: -0.0047765174, w: 0.9999886}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ Tail9
+      parentName: BASILISK_ Tail8
+      position: {x: -42.92099, y: -0.033721924, z: -0.00000009353971}
+      rotation: {x: 9.293025e-14, y: 0.0000000021615283, z: -0.0007793309, w: 0.9999997}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: BASILISK_ Tail10
+      parentName: BASILISK_ Tail9
+      position: {x: -42.35086, y: -0.034225464, z: -0.000000094936695}
+      rotation: {x: -1.633977e-13, y: -0.0000000025463593, z: 0.000918061, w: 0.9999996}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: BASILISK_ Tail11
+      parentName: BASILISK_ Tail10
+      position: {x: -42.967255, y: -0.033843994, z: -0.00000009388896}
+      rotation: {x: -1.633597e-13, y: -0.0000000025463591, z: 0.00091807585, w: 0.9999996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BASILISK_ Tail12
+      parentName: BASILISK_ Tail11
+      position: {x: -42.496887, y: -0.036880493, z: -0.00000010232907}
+      rotation: {x: 2.9138736e-13, y: -0.0000000025463587, z: 0.0009180759, w: 0.9999996}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: BASILISK
+      parentName: BASILISK(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: BASILISK
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

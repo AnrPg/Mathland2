@@ -1,0 +1,3193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2561226132838807041
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574689}
+  m_Layer: 0
+  m_Name: BASILISK_ L Toe2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574689
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807041}
+  m_LocalRotation: {x: 0.17212069, y: 0.17920336, z: -0.68522966, w: 0.684632}
+  m_LocalPosition: {x: -17.326962, y: 16.264908, z: 8.808407}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 2561226132838574691}
+  m_Father: {fileID: 2561226132838574667}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807043
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574691}
+  m_Layer: 0
+  m_Name: BASILISK_ L Toe21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574691
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807043}
+  m_LocalRotation: {x: 1.1641532e-10, y: -0.000000008598363, z: 1.0009812e-18, w: 1}
+  m_LocalPosition: {x: -8.651552, y: -0.000000029802322, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574701}
+  m_Father: {fileID: 2561226132838574689}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807045
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574693}
+  m_Layer: 0
+  m_Name: BASILISK_ L Toe11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574693
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807045}
+  m_LocalRotation: {x: 5.820766e-11, y: -0.0000000057279976, z: 3.3341334e-19, w: 1}
+  m_LocalPosition: {x: -9.328258, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 2561226132838574695}
+  m_Father: {fileID: 2561226132838574715}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807047
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574695}
+  m_Layer: 0
+  m_Name: BASILISK_ L Toe12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574695
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807047}
+  m_LocalRotation: {x: 5.820766e-11, y: -0.0000000057279976, z: 3.3341334e-19, w: 1}
+  m_LocalPosition: {x: -10.35508, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 2561226132838574693}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807049
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574697}
+  m_Layer: 0
+  m_Name: BASILISK_ L Toe31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574697
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807049}
+  m_LocalRotation: {x: -0.00000000698076, y: -0.000000006721196, z: 0.09158738, w: 0.9957971}
+  m_LocalPosition: {x: -6.838253, y: 0.0000009536743, z: 0.0000038146973}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574699}
+  m_Father: {fileID: 2561226132838574703}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807051
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574699}
+  m_Layer: 0
+  m_Name: BASILISK_ L Toe32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574699
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807051}
+  m_LocalRotation: {x: 0.0000000030267984, y: -8.149072e-10, z: 0.000000014901161, w: 1}
+  m_LocalPosition: {x: -15.744722, y: -0.0000047683716, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2561226132838574697}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807053
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574701}
+  m_Layer: 0
+  m_Name: BASILISK_ L Toe22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574701
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807053}
+  m_LocalRotation: {x: 1.1641532e-10, y: -0.000000008598363, z: 1.0009812e-18, w: 1}
+  m_LocalPosition: {x: -9.956995, y: -0.000000029802322, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2561226132838574691}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807055
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574703}
+  m_Layer: 0
+  m_Name: BASILISK_ L Toe3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574703
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807055}
+  m_LocalRotation: {x: 0.8399036, y: 0.54273003, z: 0.0013390827, w: -0.0020723986}
+  m_LocalPosition: {x: -9.642485, y: -3.2164476, z: 1.8394661}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1.0000001}
+  m_Children:
+  - {fileID: 2561226132838574697}
+  m_Father: {fileID: 2561226132838574667}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807057
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574705}
+  m_Layer: 0
+  m_Name: BASILISK_ L HorseLink
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574705
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807057}
+  m_LocalRotation: {x: -0.000000029189414, y: 0.0000000053295843, z: -0.47930795, w: 0.8776468}
+  m_LocalPosition: {x: -58.440556, y: 0, z: 0.0000038146973}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574667}
+  m_Father: {fileID: 2561226132838574685}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807059
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574707}
+  m_Layer: 0
+  m_Name: BASILISK_ L Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574707
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807059}
+  m_LocalRotation: {x: 0.56904364, y: 0.18842694, z: -0.29361185, w: 0.74463195}
+  m_LocalPosition: {x: -0, y: 33.84933, z: 0.000005722046}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574685}
+  m_Father: {fileID: 2561226132838574673}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807061
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574709}
+  m_Layer: 0
+  m_Name: BASILISK_ L Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574709
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807061}
+  m_LocalRotation: {x: 0.000000030428605, y: -0.000000026151932, z: 0.46207538, w: 0.88684064}
+  m_LocalPosition: {x: -56.563198, y: 0, z: 0.0000076293945}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574711}
+  m_Father: {fileID: 2561226132838574613}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000015594876, y: 0.00000488255, z: 154.46712}
+--- !u!1 &2561226132838807063
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574711}
+  m_Layer: 0
+  m_Name: BASILISK_ L Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574711
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807063}
+  m_LocalRotation: {x: -0.6322032, y: 0.3161028, z: -0.31635457, w: 0.6327068}
+  m_LocalPosition: {x: -38.58526, y: -0.0000076293945, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 2561226132838574681}
+  - {fileID: 2561226132838574663}
+  - {fileID: 2561226132838574669}
+  m_Father: {fileID: 2561226132838574709}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -36.869717, y: 89.94296, z: -89.965775}
+--- !u!1 &2561226132838807065
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574713}
+  m_Layer: 0
+  m_Name: BASILISK_ L Toe02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574713
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807065}
+  m_LocalRotation: {x: 2.1827873e-10, y: -0.000000018971834, z: -4.6566134e-10, w: 1}
+  m_LocalPosition: {x: -10.12191, y: -0.000000029802322, z: -0.0000038146973}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 2561226132838574719}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807067
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574715}
+  m_Layer: 0
+  m_Name: BASILISK_ L Toe1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574715
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807067}
+  m_LocalRotation: {x: -0.000000019552472, y: 0.0000000109875335, z: -0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -17.358631, y: 18.10816, z: 0.2351036}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 2561226132838574693}
+  m_Father: {fileID: 2561226132838574667}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807069
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574717}
+  m_Layer: 0
+  m_Name: BASILISK_ L Toe0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574717
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807069}
+  m_LocalRotation: {x: -0.21720874, y: -0.22289608, z: -0.6718472, w: 0.6721302}
+  m_LocalPosition: {x: -17.31319, y: 14.866186, z: -8.389057}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 2561226132838574719}
+  m_Father: {fileID: 2561226132838574667}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807071
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574719}
+  m_Layer: 0
+  m_Name: BASILISK_ L Toe01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574719
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807071}
+  m_LocalRotation: {x: 2.1827873e-10, y: -0.000000018971834, z: -4.6566134e-10, w: 1}
+  m_LocalPosition: {x: -8.48941, y: 0, z: 0.0000038146973}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 2561226132838574713}
+  m_Father: {fileID: 2561226132838574717}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807073
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574593}
+  m_Layer: 0
+  m_Name: BASILISK_ Queue de cheval 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574593
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807073}
+  m_LocalRotation: {x: 5.970778e-13, y: 0.0000009686751, z: -0.34924883, w: 0.9370301}
+  m_LocalPosition: {x: -37.84828, y: 18.542465, z: 0.000030667143}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575033}
+  m_Father: {fileID: 2561226132838574675}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000018513687, y: 0.00007645755, z: -29.383312}
+--- !u!1 &2561226132838807075
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574595}
+  m_Layer: 0
+  m_Name: BASILISK_ R Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574595
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807075}
+  m_LocalRotation: {x: -0.000000033004092, y: -0.000000010293414, z: 0.701869, w: 0.712306}
+  m_LocalPosition: {x: -56.068653, y: -0.0000076293945, z: -0.0000038146973}
+  m_LocalScale: {x: 0.99999976, y: 1.0000001, z: 0.99999994}
+  m_Children:
+  - {fileID: 2561226132838574631}
+  m_Father: {fileID: 2561226132838574625}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807077
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574597}
+  m_Layer: 0
+  m_Name: BASILISK_ Neck7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574597
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807077}
+  m_LocalRotation: {x: 7.924816e-17, y: 0.00000025904646, z: -0.09339717, w: 0.99562895}
+  m_LocalPosition: {x: -13.955032, y: -0.014968872, z: -0.000000041516614}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574675}
+  m_Father: {fileID: 2561226132838574619}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000013122859, y: 0.00006179836, z: -22.490803}
+--- !u!1 &2561226132838807079
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574599}
+  m_Layer: 0
+  m_Name: BASILISK_ Pelvis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574599
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807079}
+  m_LocalRotation: {x: -0.5, y: 0.5, z: 0.49999934, w: 0.50000066}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575045}
+  - {fileID: 2561226132838575041}
+  m_Father: {fileID: 2561226132838574673}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -90, y: 89.99993, z: 0}
+--- !u!1 &2561226132838807081
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574601}
+  m_Layer: 0
+  m_Name: BASILISK_ R Finger01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574601
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807081}
+  m_LocalRotation: {x: -1.0396932e-11, y: 9.312645e-10, z: 0.011163621, w: 0.9999377}
+  m_LocalPosition: {x: -2.4133835, y: 0.000015258789, z: 0.0000076293945}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574603}
+  m_Father: {fileID: 2561226132838574607}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.0000006213766, y: -0.0000026633807, z: -26.007414}
+--- !u!1 &2561226132838807083
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574603}
+  m_Layer: 0
+  m_Name: BASILISK_ R Finger02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574603
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807083}
+  m_LocalRotation: {x: 0, y: 0, z: 0.011163629, w: 0.9999377}
+  m_LocalPosition: {x: -6.154846, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 0.9999998, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 2561226132838574601}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.0000014175585, y: 0.0000021325104, z: -26.007427}
+--- !u!1 &2561226132838807085
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574605}
+  m_Layer: 0
+  m_Name: BASILISK_ R Clavicle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574605
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807085}
+  m_LocalRotation: {x: 0.54836, y: -0.21086307, z: 0.8032134, w: -0.09841971}
+  m_LocalPosition: {x: -0, y: 0.014457703, z: -7.227875}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 2561226132838575067}
+  m_Father: {fileID: 2561226132838574615}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 12.829031, y: 59.05156, z: 179.64635}
+--- !u!1 &2561226132838807087
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574607}
+  m_Layer: 0
+  m_Name: BASILISK_ R Finger0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574607
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807087}
+  m_LocalRotation: {x: -0.3191454, y: 0.6035828, z: 0.05987715, w: 0.7281819}
+  m_LocalPosition: {x: -4.2516785, y: -0.65286255, z: 2.9423523}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+  m_Children:
+  - {fileID: 2561226132838574601}
+  m_Father: {fileID: 2561226132838574629}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -32.484634, y: 85.3988, z: -47.978703}
+--- !u!1 &2561226132838807089
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574609}
+  m_Layer: 0
+  m_Name: BASILISK_ Neck1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574609
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807089}
+  m_LocalRotation: {x: -5.5416243e-14, y: -0.0000002641209, z: 0.095226735, w: 0.9954556}
+  m_LocalPosition: {x: -18.126266, y: -0.009124756, z: -0.000000025291229}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574611}
+  m_Father: {fileID: 2561226132838574615}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0.000005362908, y: -0.000046628622, z: 17.06579}
+--- !u!1 &2561226132838807091
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574611}
+  m_Layer: 0
+  m_Name: BASILISK_ Neck2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574611
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807091}
+  m_LocalRotation: {x: 1.3792553e-13, y: -0.00000023800824, z: 0.08581205, w: 0.99631137}
+  m_LocalPosition: {x: -11.662323, y: -0.009880066, z: -0.000000027437636}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574621}
+  m_Father: {fileID: 2561226132838574609}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000004712121, y: -0.000044449014, z: 15.9825115}
+--- !u!1 &2561226132838807093
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574613}
+  m_Layer: 0
+  m_Name: BASILISK_ L UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574613
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807093}
+  m_LocalRotation: {x: -0.6342739, y: -0.005020652, z: 0.18523927, w: 0.7505717}
+  m_LocalPosition: {x: -24.504242, y: 0, z: -0.0000076293945}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574709}
+  m_Father: {fileID: 2561226132838574687}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -14.815253, y: -23.389942, z: 3.66848}
+--- !u!1 &2561226132838807095
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574615}
+  m_Layer: 0
+  m_Name: BASILISK_ Neck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574615
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807095}
+  m_LocalRotation: {x: -2.938512e-14, y: -0.00000011458793, z: 0.04131379, w: 0.9991462}
+  m_LocalPosition: {x: -32.15103, y: -0.014389038, z: -0.000000039915903}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574687}
+  - {fileID: 2561226132838574609}
+  - {fileID: 2561226132838574605}
+  m_Father: {fileID: 2561226132838575047}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000022029635, y: -0.00003031388, z: 10.872624}
+--- !u!1 &2561226132838807097
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574617}
+  m_Layer: 0
+  m_Name: BASILISK_ Neck5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574617
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807097}
+  m_LocalRotation: {x: -1.3858172e-13, y: 0.00000012194907, z: -0.04396779, w: 0.999033}
+  m_LocalPosition: {x: -13.743362, y: -0.011650085, z: -0.000000032283424}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574619}
+  m_Father: {fileID: 2561226132838574623}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000020100692, y: 0.00004692506, z: -16.8126}
+--- !u!1 &2561226132838807099
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574619}
+  m_Layer: 0
+  m_Name: BASILISK_ Neck6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574619
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807099}
+  m_LocalRotation: {x: 8.316856e-14, y: 0.00000023886128, z: -0.08611958, w: 0.9962848}
+  m_LocalPosition: {x: -14.66539, y: -0.010925293, z: -0.00000003032619}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574597}
+  m_Father: {fileID: 2561226132838574617}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.00001240602, y: 0.000060071194, z: -21.653473}
+--- !u!1 &2561226132838807101
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574621}
+  m_Layer: 0
+  m_Name: BASILISK_ Neck3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574621
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807101}
+  m_LocalRotation: {x: -1.341139e-13, y: -0.0000001145879, z: 0.041313753, w: 0.9991462}
+  m_LocalPosition: {x: -12.60939, y: -0.011016846, z: -0.00000003054447}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574623}
+  m_Father: {fileID: 2561226132838574611}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000002202965, y: -0.000030313873, z: 10.872611}
+--- !u!1 &2561226132838807103
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574623}
+  m_Layer: 0
+  m_Name: BASILISK_ Neck4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574623
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807103}
+  m_LocalRotation: {x: 1.0673552e-13, y: 0.00000012194914, z: -0.043967787, w: 0.999033}
+  m_LocalPosition: {x: -13.879868, y: -0.010910034, z: -0.000000030224328}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574617}
+  m_Father: {fileID: 2561226132838574621}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000000020740451, y: 0.0000012130431, z: -0.074340105}
+--- !u!1 &2561226132838807137
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574657}
+  m_Layer: 0
+  m_Name: BASILISK_ L Finger11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574657
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807137}
+  m_LocalRotation: {x: -0.0000000074382, y: 4.2933507e-10, z: -0.05762438, w: 0.99833834}
+  m_LocalPosition: {x: -24.191044, y: 0.000015258789, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574659}
+  m_Father: {fileID: 2561226132838574663}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000019865288, y: 0.000001538526, z: -38.206696}
+--- !u!1 &2561226132838807139
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574659}
+  m_Layer: 0
+  m_Name: BASILISK_ L Finger12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574659
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807139}
+  m_LocalRotation: {x: -0.0000000074115003, y: 7.621061e-10, z: -0.10228816, w: 0.9947548}
+  m_LocalPosition: {x: -30.203308, y: 0.000015258789, z: 0.000015258789}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2561226132838574657}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -43.34168}
+--- !u!1 &2561226132838807141
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574661}
+  m_Layer: 0
+  m_Name: BASILISK_ L Finger02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574661
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807141}
+  m_LocalRotation: {x: 1.0396934e-11, y: -9.312645e-10, z: 0.011163624, w: 0.9999377}
+  m_LocalPosition: {x: -6.154854, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2561226132838574683}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00000036079146, y: -0.0000014343832, z: -26.007416}
+--- !u!1 &2561226132838807143
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574663}
+  m_Layer: 0
+  m_Name: BASILISK_ L Finger1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574663
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807143}
+  m_LocalRotation: {x: 0.67674506, y: 0.14213908, z: -0.20350432, w: 0.693108}
+  m_LocalPosition: {x: -10.674858, y: -0.0027236938, z: -0.61099243}
+  m_LocalScale: {x: 1, y: 1.0000002, z: 1.0000002}
+  m_Children:
+  - {fileID: 2561226132838574657}
+  m_Father: {fileID: 2561226132838574711}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 84.852196, y: -60.908222, z: -120.83074}
+--- !u!1 &2561226132838807145
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574665}
+  m_Layer: 0
+  m_Name: BASILISK_ L Finger22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574665
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807145}
+  m_LocalRotation: {x: 0.000000013816444, y: -0.000000009309224, z: -0.12890273, w: 0.99165726}
+  m_LocalPosition: {x: -24.693604, y: 0, z: -0.0000076293945}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 2561226132838574671}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.0000029295811, y: 0.000002199828, z: -40.479282}
+--- !u!1 &2561226132838807147
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574667}
+  m_Layer: 0
+  m_Name: BASILISK_ L Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574667
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807147}
+  m_LocalRotation: {x: 0.022146985, y: 0.016480578, z: 0.11103496, w: 0.993433}
+  m_LocalPosition: {x: -39.30854, y: 0.0000014305115, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574717}
+  - {fileID: 2561226132838574715}
+  - {fileID: 2561226132838574689}
+  - {fileID: 2561226132838574703}
+  m_Father: {fileID: 2561226132838574705}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807149
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574669}
+  m_Layer: 0
+  m_Name: BASILISK_ L Finger2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574669
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807149}
+  m_LocalRotation: {x: 0.6011105, y: 0.42074993, z: -0.37512642, w: 0.56649435}
+  m_LocalPosition: {x: -6.665764, y: -0.85624695, z: 3.7470245}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 2561226132838574671}
+  m_Father: {fileID: 2561226132838574711}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 85.35827, y: 161.46814, z: 67.24207}
+--- !u!1 &2561226132838807151
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574671}
+  m_Layer: 0
+  m_Name: BASILISK_ L Finger21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574671
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807151}
+  m_LocalRotation: {x: 0.00000002893531, y: -0.000000016521822, z: -0.05514111, w: 0.9984786}
+  m_LocalPosition: {x: -19.847656, y: 0, z: 0.000015258789}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 2561226132838574665}
+  m_Father: {fileID: 2561226132838574669}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00000038806635, y: 0.0000016794037, z: -31.988811}
+--- !u!1 &2561226132838807153
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574673}
+  m_Layer: 0
+  m_Name: BASILISK_
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574673
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807153}
+  m_LocalRotation: {x: -0.030843446, y: 0.030843684, z: 0.70643336, w: 0.70643425}
+  m_LocalPosition: {x: -0, y: 137.10104, z: -20.772976}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574707}
+  - {fileID: 2561226132838574599}
+  - {fileID: 2561226132838574625}
+  m_Father: {fileID: 2561226132838574677}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -13.169505, y: 0.0000025034583, z: 89.99991}
+--- !u!1 &2561226132838807155
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574675}
+  m_Layer: 0
+  m_Name: BASILISK_ Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574675
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807155}
+  m_LocalRotation: {x: 8.811479e-14, y: 0.00000040238118, z: -0.14507471, w: 0.9894207}
+  m_LocalPosition: {x: -19.138168, y: 0, z: -2.910383e-11}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574593}
+  - {fileID: 2561226132838575075}
+  - {fileID: 2561226132838574993}
+  - {fileID: 2561226132838574987}
+  - {fileID: 2561226132838575027}
+  m_Father: {fileID: 2561226132838574597}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000032484928, y: 0.00009596215, z: -36.144863}
+--- !u!1 &2561226132838807157
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574679}
+  - component: {fileID: 2561226132844018549}
+  m_Layer: 0
+  m_Name: BASILISK
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574679
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807157}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2561226132838574677}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &2561226132844018549
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807157}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: febe0335256e4fa42a04573074ef9e44, type: 2}
+  - {fileID: 2100000, guid: 54d5921d0d556fc46ac41f2ed22b2737, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: b1558fd18cf3ebc469d6ec4ff9e8e068, type: 3}
+  m_Bones:
+  - {fileID: 2561226132838574675}
+  - {fileID: 2561226132838574685}
+  - {fileID: 2561226132838574687}
+  - {fileID: 2561226132838574681}
+  - {fileID: 2561226132838574683}
+  - {fileID: 2561226132838574663}
+  - {fileID: 2561226132838574661}
+  - {fileID: 2561226132838574669}
+  - {fileID: 2561226132838574657}
+  - {fileID: 2561226132838574659}
+  - {fileID: 2561226132838574671}
+  - {fileID: 2561226132838574665}
+  - {fileID: 2561226132838574667}
+  - {fileID: 2561226132838574709}
+  - {fileID: 2561226132838574711}
+  - {fileID: 2561226132838574705}
+  - {fileID: 2561226132838574707}
+  - {fileID: 2561226132838574717}
+  - {fileID: 2561226132838574719}
+  - {fileID: 2561226132838574715}
+  - {fileID: 2561226132838574593}
+  - {fileID: 2561226132838574597}
+  - {fileID: 2561226132838574619}
+  - {fileID: 2561226132838575075}
+  - {fileID: 2561226132838575033}
+  - {fileID: 2561226132838575035}
+  - {fileID: 2561226132838575015}
+  - {fileID: 2561226132838574993}
+  - {fileID: 2561226132838574595}
+  - {fileID: 2561226132838574605}
+  - {fileID: 2561226132838574607}
+  - {fileID: 2561226132838574601}
+  - {fileID: 2561226132838574645}
+  - {fileID: 2561226132838574603}
+  - {fileID: 2561226132838574643}
+  - {fileID: 2561226132838574647}
+  - {fileID: 2561226132838574641}
+  - {fileID: 2561226132838574653}
+  - {fileID: 2561226132838574655}
+  - {fileID: 2561226132838574649}
+  - {fileID: 2561226132838574651}
+  - {fileID: 2561226132838574629}
+  - {fileID: 2561226132838574631}
+  - {fileID: 2561226132838574625}
+  - {fileID: 2561226132838574627}
+  - {fileID: 2561226132838574637}
+  - {fileID: 2561226132838574633}
+  - {fileID: 2561226132838575027}
+  - {fileID: 2561226132838574617}
+  - {fileID: 2561226132838574623}
+  - {fileID: 2561226132838575047}
+  - {fileID: 2561226132838574621}
+  - {fileID: 2561226132838574987}
+  - {fileID: 2561226132838575013}
+  - {fileID: 2561226132838574615}
+  - {fileID: 2561226132838574611}
+  - {fileID: 2561226132838574609}
+  - {fileID: 2561226132838575045}
+  - {fileID: 2561226132838574613}
+  - {fileID: 2561226132838574599}
+  - {fileID: 2561226132838575067}
+  - {fileID: 2561226132838575041}
+  - {fileID: 2561226132838575043}
+  - {fileID: 2561226132838574693}
+  - {fileID: 2561226132838574695}
+  - {fileID: 2561226132838575059}
+  - {fileID: 2561226132838575061}
+  - {fileID: 2561226132838574713}
+  - {fileID: 2561226132838574689}
+  - {fileID: 2561226132838574701}
+  - {fileID: 2561226132838574691}
+  - {fileID: 2561226132838574697}
+  - {fileID: 2561226132838574703}
+  - {fileID: 2561226132838574699}
+  - {fileID: 2561226132838575071}
+  - {fileID: 2561226132838575089}
+  - {fileID: 2561226132838575091}
+  - {fileID: 2561226132838575095}
+  - {fileID: 2561226132838575101}
+  - {fileID: 2561226132838575103}
+  - {fileID: 2561226132838575049}
+  - {fileID: 2561226132838575055}
+  - {fileID: 2561226132838575053}
+  - {fileID: 2561226132838575097}
+  - {fileID: 2561226132838575051}
+  - {fileID: 2561226132838575093}
+  - {fileID: 2561226132838574635}
+  - {fileID: 2561226132838574639}
+  - {fileID: 2561226132838575063}
+  - {fileID: 2561226132838575057}
+  - {fileID: 2561226132838575069}
+  - {fileID: 2561226132838575065}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 2561226132838574599}
+  m_AABB:
+    m_Center: {x: 159.24811, y: -0.5077362, z: -0.00011444092}
+    m_Extent: {x: 433.4508, y: 149.6866, z: 148.29242}
+  m_DirtyAABB: 0
+--- !u!1 &2561226132838807159
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574677}
+  - component: {fileID: 2561226132838707406}
+  - component: {fileID: 2561226132838707408}
+  - component: {fileID: 2561226132838707409}
+  - component: {fileID: 2561226132838707407}
+  - component: {fileID: 7395161881308412795}
+  m_Layer: 0
+  m_Name: Basilisk
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574677
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807159}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 574.08, y: 50.24771, z: 522.58}
+  m_LocalScale: {x: 0.02, y: 0.02, z: 0.02}
+  m_Children:
+  - {fileID: 2561226132838574679}
+  - {fileID: 2561226132838574673}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &2561226132838707406
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807159}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 1.06
+  m_Height: 5.88
+  m_Direction: 2
+  m_Center: {x: 0, y: 1.67, z: -0.27}
+--- !u!95 &2561226132838707408
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807159}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 36cd2b55a5ff9fc4f8270e6e5a758049, type: 3}
+  m_Controller: {fileID: 9100000, guid: 6bb2e64082c01a87698fe5ad1d854370, type: 2}
+  m_CullingMode: 2
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: "\nBinding warning: Some generic clip(s) animate transforms that
+    are already bound by a Humanoid avatar. These transforms can only be changed
+    by Humanoid clips.\n\tTransform 'BASILISK_ R Finger01'\n\tTransform 'BASILISK_
+    L Finger21'\n\tTransform 'BASILISK_ R Finger11'\n\tTransform 'BASILISK_ L Finger01'\n\tTransform
+    'BASILISK_ R Finger02'\n\tTransform 'BASILISK_ L UpperArm'\n\tTransform 'BASILISK_
+    R Forearm'\n\tTransform 'BASILISK_ L Finger11'\n\tTransform 'BASILISK_ R Finger21'\n\tTransform
+    'BASILISK_ L Finger12'\n\tand more ...\n\tFrom animation clip 'idle_basilisk'"
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &2561226132838707409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd1022e01895659b85639ee369c2df1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyType: 0
+  whatIsGround:
+    serializedVersion: 2
+    m_Bits: 24
+  whatIsTarget:
+    serializedVersion: 2
+    m_Bits: 64
+  sightRange: 10
+  attackRange: 5
+  checkRate: 0.2
+--- !u!195 &2561226132838707407
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807159}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 1.86
+  m_Speed: 12
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 1
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 2.79
+  m_BaseOffset: 0
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!114 &7395161881308412795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8f0d892e4f39b24e82828f60af5bb4b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 3
+--- !u!1 &2561226132838807161
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574681}
+  m_Layer: 0
+  m_Name: BASILISK_ L Finger0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574681
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807161}
+  m_LocalRotation: {x: 0.3191454, y: -0.6035828, z: 0.059877157, w: 0.7281819}
+  m_LocalPosition: {x: -4.2516785, y: -0.65286255, z: -2.9423523}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+  m_Children:
+  - {fileID: 2561226132838574683}
+  m_Father: {fileID: 2561226132838574711}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 32.484634, y: -85.3988, z: -47.978703}
+--- !u!1 &2561226132838807163
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574683}
+  m_Layer: 0
+  m_Name: BASILISK_ L Finger01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574683
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807163}
+  m_LocalRotation: {x: 0, y: 0, z: 0.011163625, w: 0.9999377}
+  m_LocalPosition: {x: -2.4133835, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574661}
+  m_Father: {fileID: 2561226132838574681}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00000008503942, y: 0.0000017366591, z: -26.007416}
+--- !u!1 &2561226132838807165
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574685}
+  m_Layer: 0
+  m_Name: BASILISK_ L Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574685
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807165}
+  m_LocalRotation: {x: -0.000000010077166, y: -0.000000026926683, z: 0.7018689, w: 0.7123062}
+  m_LocalPosition: {x: -56.06867, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574705}
+  m_Father: {fileID: 2561226132838574707}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807167
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574687}
+  m_Layer: 0
+  m_Name: BASILISK_ L Clavicle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574687
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807167}
+  m_LocalRotation: {x: -0.5483602, y: 0.21086076, z: 0.80321395, w: -0.09841824}
+  m_LocalPosition: {x: -0, y: 0.014411926, z: 7.227876}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.9999998}
+  m_Children:
+  - {fileID: 2561226132838574613}
+  m_Father: {fileID: 2561226132838574615}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -12.8288555, y: -59.0515, z: 179.64606}
+--- !u!1 &2561226132838807365
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575013}
+  m_Layer: 0
+  m_Name: BASILISK_TONGUE_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575013
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807365}
+  m_LocalRotation: {x: 0, y: 0, z: 0.12450133, w: 0.99221945}
+  m_LocalPosition: {x: -7.4983826, y: 0, z: 7.275958e-12}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575015}
+  m_Father: {fileID: 2561226132838575035}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -13.379771}
+--- !u!1 &2561226132838807367
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575015}
+  m_Layer: 0
+  m_Name: BASILISK_TONGUE_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575015
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807367}
+  m_LocalRotation: {x: 7.5181447e-17, y: -8.7183074e-16, z: 0.08591513, w: 0.9963025}
+  m_LocalPosition: {x: -5.897583, y: 0, z: 0.00000014260513}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2561226132838575013}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -7.138225e-14, y: -7.0425396e-14, z: -45.38658}
+--- !u!1 &2561226132838807379
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575027}
+  m_Layer: 0
+  m_Name: BASILISK_CREST_R_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575027
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807379}
+  m_LocalRotation: {x: -0.06682284, y: -0.042222265, z: -0.8427318, w: 0.532499}
+  m_LocalPosition: {x: -28.389904, y: 27.00891, z: -9.996024}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 2561226132838574675}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: -8.182712, y: 3.9196117, z: -115.70515}
+--- !u!1 &2561226132838807385
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575033}
+  m_Layer: 0
+  m_Name: BASILISK_TONGUE_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575033
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807385}
+  m_LocalRotation: {x: 0.98322743, y: 0.1823836, z: 0.000000650045, w: -0.0000009331573}
+  m_LocalPosition: {x: -5.6407685, y: -0.7744293, z: 0.000091552734}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575035}
+  m_Father: {fileID: 2561226132838574593}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000104372775, y: 179.99991, z: 172.55646}
+--- !u!1 &2561226132838807387
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575035}
+  m_Layer: 0
+  m_Name: BASILISK_TONGUE_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575035
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807387}
+  m_LocalRotation: {x: 0.000000005423037, y: -0.00000004733394, z: 0.1138251, w: 0.9935008}
+  m_LocalPosition: {x: -8.41153, y: 0.000030517578, z: -0.0000009702635}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575013}
+  m_Father: {fileID: 2561226132838575033}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.00000064835933, y: -0.0000038327494, z: 10.0257225}
+--- !u!1 &2561226132838807427
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575075}
+  m_Layer: 0
+  m_Name: BASILISK_CREST_L_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575075
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807427}
+  m_LocalRotation: {x: -0.5930159, y: 0.09203128, z: 0.79978275, w: -0.0144916875}
+  m_LocalPosition: {x: -11.994453, y: 5.784012, z: 27.394836}
+  m_LocalScale: {x: 1.0000001, y: 0.99999994, z: 0.9999999}
+  m_Children: []
+  m_Father: {fileID: 2561226132838574675}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -6.955365, y: -77.27905, z: -171.83601}
+--- !u!1 &2561226132838807441
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575089}
+  m_Layer: 0
+  m_Name: BASILISK_ Tail5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575089
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807441}
+  m_LocalRotation: {x: -1.6338573e-13, y: -0.0000000025463307, z: 0.0009180759, w: 0.9999996}
+  m_LocalPosition: {x: -43.016068, y: -0.03388977, z: -0.00000009400537}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575091}
+  m_Father: {fileID: 2561226132838575095}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.089610815, y: 4.853986, z: -1.5715259}
+--- !u!1 &2561226132838807443
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575091}
+  m_Layer: 0
+  m_Name: BASILISK_ Tail6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575091
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807443}
+  m_LocalRotation: {x: -1.633147e-13, y: -0.0000000025463875, z: 0.0009180833, w: 0.9999996}
+  m_LocalPosition: {x: -42.57457, y: -0.03413391, z: -0.00000009464566}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575101}
+  m_Father: {fileID: 2561226132838575089}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.043583363, y: 4.8545923, z: -1.0518167}
+--- !u!1 &2561226132838807445
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575093}
+  m_Layer: 0
+  m_Name: BASILISK_ Tail3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575093
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807445}
+  m_LocalRotation: {x: -1.6335976e-13, y: -0.0000000025463591, z: 0.0009180759, w: 0.9999996}
+  m_LocalPosition: {x: -42.985527, y: -0.033966064, z: -0.000000094179995}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575095}
+  m_Father: {fileID: 2561226132838575051}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 2.346989, y: 3.2525592, z: -17.69427}
+--- !u!1 &2561226132838807447
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575095}
+  m_Layer: 0
+  m_Name: BASILISK_ Tail4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575095
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807447}
+  m_LocalRotation: {x: -1.6326956e-13, y: -0.000000002546416, z: 0.00091809087, w: 0.9999996}
+  m_LocalPosition: {x: -42.63777, y: -0.03425598, z: -0.00000009505311}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575089}
+  m_Father: {fileID: 2561226132838575093}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.2322297, y: 3.8173723, z: -17.682095}
+--- !u!1 &2561226132838807449
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575097}
+  m_Layer: 0
+  m_Name: BASILISK_ Tail9
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575097
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807449}
+  m_LocalRotation: {x: 9.293025e-14, y: 0.0000000021615283, z: -0.0007793309, w: 0.9999997}
+  m_LocalPosition: {x: -42.92099, y: -0.033721924, z: -0.00000009353971}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575053}
+  m_Father: {fileID: 2561226132838575103}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 2.2400181, y: 6.310631, z: -5.6072164}
+--- !u!1 &2561226132838807453
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575101}
+  m_Layer: 0
+  m_Name: BASILISK_ Tail7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575101
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807453}
+  m_LocalRotation: {x: 6.39685e-14, y: -0.00000000254633, z: 0.0009180683, w: 0.9999996}
+  m_LocalPosition: {x: -42.865417, y: -0.03366089, z: -0.0000000934815}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575103}
+  m_Father: {fileID: 2561226132838575091}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 3.2969189, y: 5.1927195, z: -7.9841347}
+--- !u!1 &2561226132838807455
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575103}
+  m_Layer: 0
+  m_Name: BASILISK_ Tail8
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575103
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807455}
+  m_LocalRotation: {x: 7.033647e-14, y: 0.000000013248192, z: -0.0047765174, w: 0.9999886}
+  m_LocalPosition: {x: -42.28824, y: -0.034179688, z: -0.00000009476207}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575097}
+  m_Father: {fileID: 2561226132838575101}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 2.7702303, y: 5.8291407, z: -6.4101243}
+--- !u!1 &2561226132838807467
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574987}
+  m_Layer: 0
+  m_Name: BASILISK_CREST_R_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574987
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807467}
+  m_LocalRotation: {x: 0.01449257, y: -0.7997826, z: -0.09203236, w: 0.5930159}
+  m_LocalPosition: {x: -11.99444, y: 5.784086, z: -27.394737}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.9999999}
+  m_Children: []
+  m_Father: {fileID: 2561226132838574675}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: -6.9663153, y: -102.794846, z: -8.153592}
+--- !u!1 &2561226132838807473
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574993}
+  m_Layer: 0
+  m_Name: BASILISK_CREST_L_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574993
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807473}
+  m_LocalRotation: {x: -0.53249884, y: 0.8427318, z: 0.04222366, w: 0.06682354}
+  m_LocalPosition: {x: -28.38989, y: 27.008865, z: 9.996185}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 2561226132838574675}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -8.18289, y: 176.0804, z: -64.29484}
+--- !u!1 &2561226132838807489
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574625}
+  m_Layer: 0
+  m_Name: BASILISK_ R Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574625
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807489}
+  m_LocalRotation: {x: 0.7446319, y: 0.29361185, z: -0.18842694, w: 0.56904376}
+  m_LocalPosition: {x: -0, y: -33.84933, z: 0.000005722046}
+  m_LocalScale: {x: 0.99999994, y: 1.0000002, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574595}
+  m_Father: {fileID: 2561226132838574673}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807491
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574627}
+  m_Layer: 0
+  m_Name: BASILISK_ R Toe0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574627
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807491}
+  m_LocalRotation: {x: 0.21720876, y: 0.22289607, z: -0.6718472, w: 0.67213017}
+  m_LocalPosition: {x: -17.31319, y: 14.866185, z: 8.389057}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.9999999}
+  m_Children:
+  - {fileID: 2561226132838574637}
+  m_Father: {fileID: 2561226132838574649}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807493
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574629}
+  m_Layer: 0
+  m_Name: BASILISK_ R Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574629
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807493}
+  m_LocalRotation: {x: 0.6322032, y: -0.31610277, z: -0.31635457, w: 0.6327068}
+  m_LocalPosition: {x: -38.58525, y: 0.000015258789, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 2561226132838574607}
+  - {fileID: 2561226132838574645}
+  - {fileID: 2561226132838574643}
+  m_Father: {fileID: 2561226132838574651}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 36.869724, y: -89.94296, z: -89.965775}
+--- !u!1 &2561226132838807495
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574631}
+  m_Layer: 0
+  m_Name: BASILISK_ R HorseLink
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574631
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807495}
+  m_LocalRotation: {x: -0.000000012685088, y: 0.000000012233486, z: -0.47930816, w: 0.8776467}
+  m_LocalPosition: {x: -58.440544, y: 0, z: 0.0000038146973}
+  m_LocalScale: {x: 0.99999994, y: 1.0000002, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574649}
+  m_Father: {fileID: 2561226132838574595}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807497
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574633}
+  m_Layer: 0
+  m_Name: BASILISK_ R Toe1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574633
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807497}
+  m_LocalRotation: {x: 0.000000016120195, y: -0.000000014419812, z: -0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -17.35863, y: 18.108162, z: -0.23509598}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 2561226132838574635}
+  m_Father: {fileID: 2561226132838574649}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807499
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574635}
+  m_Layer: 0
+  m_Name: BASILISK_ R Toe11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574635
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807499}
+  m_LocalRotation: {x: -5.820767e-11, y: 8.7402435e-10, z: 4.656613e-10, w: 1}
+  m_LocalPosition: {x: -9.328259, y: -0.000000059604645, z: -0.0000076293945}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 2561226132838575061}
+  m_Father: {fileID: 2561226132838574633}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807501
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574637}
+  m_Layer: 0
+  m_Name: BASILISK_ R Toe01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574637
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807501}
+  m_LocalRotation: {x: -1.09139364e-10, y: 0.000000005398306, z: -4.656613e-10, w: 1}
+  m_LocalPosition: {x: -8.48941, y: 0.000000029802322, z: -0.0000038146973}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574639}
+  m_Father: {fileID: 2561226132838574627}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807503
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574639}
+  m_Layer: 0
+  m_Name: BASILISK_ R Toe02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574639
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807503}
+  m_LocalRotation: {x: -1.09139364e-10, y: 0.000000005398306, z: -4.656613e-10, w: 1}
+  m_LocalPosition: {x: -10.12191, y: 0.000000029802322, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2561226132838574637}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807505
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574641}
+  m_Layer: 0
+  m_Name: BASILISK_ R Finger12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574641
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807505}
+  m_LocalRotation: {x: 0.0000000074115003, y: -7.6210604e-10, z: -0.10228814, w: 0.9947548}
+  m_LocalPosition: {x: -30.203312, y: 0, z: 0.0000076293945}
+  m_LocalScale: {x: 1, y: 1, z: 0.9999999}
+  m_Children: []
+  m_Father: {fileID: 2561226132838574647}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.00000041826337, y: 0.00000044320393, z: -43.34168}
+--- !u!1 &2561226132838807507
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574643}
+  m_Layer: 0
+  m_Name: BASILISK_ R Finger2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574643
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807507}
+  m_LocalRotation: {x: -0.6011106, y: -0.4207499, z: -0.37512645, w: 0.5664943}
+  m_LocalPosition: {x: -6.665764, y: -0.8562546, z: -3.7470322}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574653}
+  m_Father: {fileID: 2561226132838574629}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -85.35826, y: -161.46796, z: 67.24187}
+--- !u!1 &2561226132838807509
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574645}
+  m_Layer: 0
+  m_Name: BASILISK_ R Finger1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574645
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807509}
+  m_LocalRotation: {x: -0.67674506, y: -0.14213908, z: -0.20350432, w: 0.693108}
+  m_LocalPosition: {x: -10.674866, y: -0.0027236938, z: 0.61099243}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574647}
+  m_Father: {fileID: 2561226132838574629}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -84.852196, y: 60.908215, z: -120.83074}
+--- !u!1 &2561226132838807511
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574647}
+  m_Layer: 0
+  m_Name: BASILISK_ R Finger11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574647
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807511}
+  m_LocalRotation: {x: 0, y: -0, z: -0.057624374, w: 0.99833834}
+  m_LocalPosition: {x: -24.191048, y: 0.0000076293945, z: -0.0000076293945}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574641}
+  m_Father: {fileID: 2561226132838574645}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -38.206696}
+--- !u!1 &2561226132838807513
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574649}
+  m_Layer: 0
+  m_Name: BASILISK_ R Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574649
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807513}
+  m_LocalRotation: {x: -0.022146884, y: -0.016480526, z: 0.11103495, w: 0.993433}
+  m_LocalPosition: {x: -39.308556, y: 0.00000047683716, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574627}
+  - {fileID: 2561226132838574633}
+  - {fileID: 2561226132838575063}
+  - {fileID: 2561226132838575069}
+  m_Father: {fileID: 2561226132838574631}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807515
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574651}
+  m_Layer: 0
+  m_Name: BASILISK_ R Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574651
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807515}
+  m_LocalRotation: {x: -0.0000000407568, y: 0.00000004597437, z: 0.4620754, w: 0.88684064}
+  m_LocalPosition: {x: -56.563187, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999998, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 2561226132838574629}
+  m_Father: {fileID: 2561226132838575067}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00001749084, y: -0.000012446011, z: 154.49812}
+--- !u!1 &2561226132838807517
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574653}
+  m_Layer: 0
+  m_Name: BASILISK_ R Finger21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574653
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807517}
+  m_LocalRotation: {x: -0.000000014878491, y: 8.2166635e-10, z: -0.05514109, w: 0.9984786}
+  m_LocalPosition: {x: -19.847656, y: 0, z: -0.0000076293945}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 2561226132838574655}
+  m_Father: {fileID: 2561226132838574643}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000001033735, y: 0.00000064566876, z: -31.988817}
+--- !u!1 &2561226132838807519
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838574655}
+  m_Layer: 0
+  m_Name: BASILISK_ R Finger22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838574655
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807519}
+  m_LocalRotation: {x: -0.000000014776846, y: 0.0000000019208009, z: -0.12890273, w: 0.99165726}
+  m_LocalPosition: {x: -24.693604, y: -0.0000038146973, z: 0}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2561226132838574653}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00000016058308, y: 0.000001689323, z: -40.47929}
+--- !u!1 &2561226132838807521
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575041}
+  m_Layer: 0
+  m_Name: BASILISK_ Tail
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575041
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807521}
+  m_LocalRotation: {x: 0.0000008334968, y: -0.0000007390248, z: 0.99767697, w: -0.068122126}
+  m_LocalPosition: {x: 42.013878, y: 3.7139893, z: 0.000026620197}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575043}
+  m_Father: {fileID: 2561226132838574599}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -0.9609825, y: -3.8946543, z: -155.67593}
+--- !u!1 &2561226132838807523
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575043}
+  m_Layer: 0
+  m_Name: BASILISK_ Tail1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575043
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807523}
+  m_LocalRotation: {x: 6.408491e-14, y: -0.0000000025464153, z: 0.00091808324, w: 0.9999996}
+  m_LocalPosition: {x: -38.79238, y: -0.03366089, z: -0.00000009336509}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575051}
+  m_Father: {fileID: 2561226132838575041}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 2.4950747, y: 3.144129, z: 16.598068}
+--- !u!1 &2561226132838807525
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575045}
+  m_Layer: 0
+  m_Name: BASILISK_ Spine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575045
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807525}
+  m_LocalRotation: {x: -0.0000020228306, y: 0.0000006398756, z: 0.07441854, w: 0.99722713}
+  m_LocalPosition: {x: -27.352104, y: -2.0076752, z: 0.000043401204}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575047}
+  m_Father: {fileID: 2561226132838574599}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.0002280843, y: 0.000028049411, z: 20.410345}
+--- !u!1 &2561226132838807527
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575047}
+  m_Layer: 0
+  m_Name: BASILISK_ Spine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575047
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807527}
+  m_LocalRotation: {x: 3.2790678e-14, y: -0.00000020750856, z: 0.07481561, w: 0.9971974}
+  m_LocalPosition: {x: -32.148396, y: -0.025314331, z: -0.00000007021299}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574615}
+  m_Father: {fileID: 2561226132838575045}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000011448408, y: -0.000050887513, z: 20.455961}
+--- !u!1 &2561226132838807529
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575049}
+  m_Layer: 0
+  m_Name: BASILISK_ Tail12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575049
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807529}
+  m_LocalRotation: {x: 2.9138736e-13, y: -0.0000000025463587, z: 0.0009180759, w: 0.9999996}
+  m_LocalPosition: {x: -42.496887, y: -0.036880493, z: -0.00000010232907}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2561226132838575055}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.44266886, y: 7.3693733, z: -4.869449}
+--- !u!1 &2561226132838807531
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575051}
+  m_Layer: 0
+  m_Name: BASILISK_ Tail2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575051
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807531}
+  m_LocalRotation: {x: 6.3904536e-14, y: -0.000000002546302, z: 0.00091805344, w: 0.9999996}
+  m_LocalPosition: {x: -42.296814, y: -0.034225464, z: -0.000000094936695}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575093}
+  m_Father: {fileID: 2561226132838575043}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 3.2337847, y: 2.3710337, z: -17.6962}
+--- !u!1 &2561226132838807533
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575053}
+  m_Layer: 0
+  m_Name: BASILISK_ Tail10
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575053
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807533}
+  m_LocalRotation: {x: -1.633977e-13, y: -0.0000000025463593, z: 0.000918061, w: 0.9999996}
+  m_LocalPosition: {x: -42.35086, y: -0.034225464, z: -0.000000094936695}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575055}
+  m_Father: {fileID: 2561226132838575097}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.737467, y: 6.930928, z: -5.1502132}
+--- !u!1 &2561226132838807535
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575055}
+  m_Layer: 0
+  m_Name: BASILISK_ Tail11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575055
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807535}
+  m_LocalRotation: {x: -1.633597e-13, y: -0.0000000025463591, z: 0.00091807585, w: 0.9999996}
+  m_LocalPosition: {x: -42.967255, y: -0.033843994, z: -0.00000009388896}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575049}
+  m_Father: {fileID: 2561226132838575053}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.1117004, y: 7.21931, z: -4.9611816}
+--- !u!1 &2561226132838807537
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575057}
+  m_Layer: 0
+  m_Name: BASILISK_ R Toe21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575057
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807537}
+  m_LocalRotation: {x: 2.9103834e-11, y: 0.0000000038203325, z: -9.313226e-10, w: 1}
+  m_LocalPosition: {x: -8.651552, y: 0.000000029802322, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575059}
+  m_Father: {fileID: 2561226132838575063}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807539
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575059}
+  m_Layer: 0
+  m_Name: BASILISK_ R Toe22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575059
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807539}
+  m_LocalRotation: {x: 2.9103834e-11, y: 0.0000000038203325, z: -9.313226e-10, w: 1}
+  m_LocalPosition: {x: -9.956993, y: -0.000000029802322, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2561226132838575057}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807541
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575061}
+  m_Layer: 0
+  m_Name: BASILISK_ R Toe12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575061
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807541}
+  m_LocalRotation: {x: -5.820767e-11, y: 8.7402435e-10, z: 4.656613e-10, w: 1}
+  m_LocalPosition: {x: -10.355085, y: -0.000000029802322, z: 0.0000038146973}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 2561226132838574635}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807543
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575063}
+  m_Layer: 0
+  m_Name: BASILISK_ R Toe2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575063
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807543}
+  m_LocalRotation: {x: -0.17212066, y: -0.17920332, z: -0.6852297, w: 0.68463194}
+  m_LocalPosition: {x: -17.326963, y: 16.264908, z: -8.808411}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 2561226132838575057}
+  m_Father: {fileID: 2561226132838574649}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807545
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575065}
+  m_Layer: 0
+  m_Name: BASILISK_ R Toe32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575065
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807545}
+  m_LocalRotation: {x: -0.0000000019790602, y: 0.0000000073341653, z: -0.000000044703484, w: 1}
+  m_LocalPosition: {x: -15.744724, y: 0.0000038146973, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2561226132838575071}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807547
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575067}
+  m_Layer: 0
+  m_Name: BASILISK_ R UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575067
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807547}
+  m_LocalRotation: {x: 0.6342739, y: 0.0050206394, z: 0.18523927, w: 0.7505717}
+  m_LocalPosition: {x: -24.504227, y: 0.000015258789, z: -0.000015258789}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 2561226132838574651}
+  m_Father: {fileID: 2561226132838574605}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 14.815252, y: 23.389933, z: 3.6684618}
+--- !u!1 &2561226132838807549
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575069}
+  m_Layer: 0
+  m_Name: BASILISK_ R Toe3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575069
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807549}
+  m_LocalRotation: {x: 0.83990365, y: 0.54273003, z: -0.0013390778, w: 0.0020723953}
+  m_LocalPosition: {x: -9.642485, y: -3.2164474, z: -1.8394661}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 2561226132838575071}
+  m_Father: {fileID: 2561226132838574649}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2561226132838807551
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561226132838575071}
+  m_Layer: 0
+  m_Name: BASILISK_ R Toe31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561226132838575071
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2561226132838807551}
+  m_LocalRotation: {x: 0.000000001377835, y: -0.0000000022698623, z: 0.09158735, w: 0.9957971}
+  m_LocalPosition: {x: -6.8382473, y: -0.0000009536743, z: -0.0000038146973}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 2561226132838575065}
+  m_Father: {fileID: 2561226132838575069}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
